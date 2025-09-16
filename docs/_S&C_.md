@@ -21,16 +21,16 @@
 | Activation              | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run        | AM/PM | Main task action mimicry                   |
 | Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | AM/PM | Main task                           |
 | Cessation               | Calf Stretch, Seated Hip Rotation                   | AM/PM | Temp reg & homeostasis              |
-| GPP  | Task cat w/ gen dist                                | AM/PM | Gen performance & phys health       |
-| SPP | Task cat w/ spec dist                               | AM/PM | Spec performance post-GPP           |
+| General Physical Preparedness/GPP  | Task cat w/ gen dist                                | AM/PM | Gen performance & phys health       |
+| Specific Physical Preparedness/SPP | Task cat w/ spec dist                               | AM/PM | Spec performance post-GPP           |
 
 > NOTE: 
 > PRGRM METHODOLOGY:
 > * Qual dev, maintenance, & improvement
 > * Interference avoidance
-> * Complementary stim util e.g. Complex ABSOLUTE STRENGTH-RELATIVE POWER Session
+> * Complementary stim util e.g. Complex Absolute Strength-Relative Power Session
 > * Intensity, volume, recovery, etc guidelines w/ RPE/RIR util 
-> * Equip integ e.g. CBRN/HAZMAT equip integ w/ AEROBIC ENDURANCE 
+> * Equip integ e.g. CBRN/HAZMAT equip integ w/ Aerobic Endurance 
 # STRENGTH & CONDITIONING MATERIEL:
 * 1x Suspension sys
 * 1x Sledgehammer
@@ -39,9 +39,9 @@
 * 1x integ equip e.g. LBE/TAPS, CBRN/HAZMAT, SCBA, etc
 
 # PHASE 1 GPP:
-* Primary TASK CAT: RS
-* Secondary TASK CAT: AE
-* Tertiary TASK CAT: RS
+* Primary TASK CAT: Relative Strength
+* Secondary TASK CAT: Aerobic Endurance
+* Tertiary TASK CAT: Muscular Endurance
 
 # Timetable:
 | Day #  | Time | Category | Globalization  | Localization  | Mobilization  | Activation                                                                                                   | Realization  | Cessation  |
