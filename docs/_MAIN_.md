@@ -1,5 +1,5 @@
 # Timetable:
 
-| Time:     | File: |
+| Time:     | Proc: |
 |-----------|-------------|
-| 0430-0435 | docs/nutrition/_1_.md | 
+| 0430-0435 | Nutrition (./docs/nutrition/_1_.md) | 
