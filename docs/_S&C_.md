@@ -46,4 +46,4 @@
 # Timetable:
 | Day #  | Time | Category | Globalization  | Localization  | Mobilization  | Activation                                                                                                   | Realization  | Cessation  |
 |--------|------|-----|-----|-----|-----|------------------------------------------------------------------------------------------------------|-----|-----|
-| DAY #1 | AM   | NMS | N/A | N/A | N/A | - 4x20s Suspension Sys Plank Tap (30s)<br>- 4x8 1-Leg Whips (30s)<br>- 1-Leg Squat w/ Medial Rotation (30s) | N/A | N/A |
+| DAY #1 | AM   | NMS | N/A | N/A | N/A | N/A | - 4x20 Suspension Sys Plank Tap w/ 30s rest <br>- 4x8 1-Leg Whips w/ 30s rest <br>- 1-Leg Squat w/ Medial Rotation w/ 30s rest | N/A |
