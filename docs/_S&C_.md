@@ -44,6 +44,6 @@
 * Tertiary TASK CAT: RS
 
 # Timetable:
-| DAY #  | TIME | CAT | TG  | TL  | TM  | TA                                                                                                   | TR  | TC  |
+| Day #  | Time | Category | Globalization  | Localization  | Mobilization  | Activation                                                                                                   | Realization  | Cessation  |
 |--------|------|-----|-----|-----|-----|------------------------------------------------------------------------------------------------------|-----|-----|
 | DAY #1 | AM   | NMS | N/A | N/A | N/A | - 4x20s Suspension Sys Plank Tap (30s)<br>- 4x8 1-Leg Whips (30s)<br>- 1-Leg Squat w/ Medial Rotation (30s) | N/A | N/A |
