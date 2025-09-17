@@ -20,7 +20,7 @@
 | Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | AM/PM | Main task                           |
 | Cessation               | Calf Stretch, Seated Hip Rotation                   | AM/PM | Temp reg & homeostasis              |
 | General Physical Preparedness/GPP  | Task cat w/ gen dist                                | AM/PM | Gen perf & phys health       |
-| Specific Physical Preparedness/SPP | Task cat w/ spec dist                               | AM/PM | Spec perf post-GPP           |
+| Specific Physical Preparedness/SPP | Task cat w/ spec dist                               | AM/PM | Spec perf w/ equip integ post-GPP           |
 
 > NOTE: 
 > PRGRM METHODOLOGY:
