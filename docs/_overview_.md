@@ -1,6 +1,3 @@
----
-title: Strength & Conditioning
----
 # OCCUPATIONAL S&C PRGRM:
 
 # TASK OVERVIEW:
