@@ -1,7 +1,5 @@
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
-# TASK OVERVIEW:
-
 | Task cat                             | Task ex                                             | Time  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
 | Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | PM    | Max mvmt velocity                   |
