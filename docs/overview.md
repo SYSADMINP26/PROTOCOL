@@ -19,8 +19,8 @@
 | Activation              | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run        | AM/PM | Main task action mimicry                   |
 | Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | AM/PM | Main task                           |
 | Cessation               | Calf Stretch, Seated Hip Rotation                   | AM/PM | Temp reg & homeostasis              |
-| General Physical Preparedness/GPP  | Task cat w/ gen dist                                | AM/PM | Gen performance & phys health       |
-| Specific Physical Preparedness/SPP | Task cat w/ spec dist                               | AM/PM | Spec performance post-GPP           |
+| General Physical Preparedness/GPP  | Task cat w/ gen dist                                | AM/PM | Gen perf & phys health       |
+| Specific Physical Preparedness/SPP | Task cat w/ spec dist                               | AM/PM | Spec perf post-GPP           |
 
 > NOTE: 
 > PRGRM METHODOLOGY:
@@ -37,6 +37,8 @@
 * 1x integ equip e.g. LBE/TAPS, CBRN/HAZMAT, SCBA, etc
 
 # PHASE 1 GPP:
-* Primary TASK CAT: Relative Strength
-* Secondary TASK CAT: Aerobic Endurance
-* Tertiary TASK CAT: Muscular Endurance
+* Primary Task cat: Relative Strength
+* Secondary Task cat: Aerobic Endurance
+* Tertiary Task cat: Muscular Endurance
+
+# PHASE 2 SPP:
