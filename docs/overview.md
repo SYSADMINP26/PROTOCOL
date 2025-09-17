@@ -35,10 +35,3 @@
 * 1x Sandbag
 * ~7.82m Climbing Rope
 * 1x integ equip e.g. LBE/TAPS, CBRN/HAZMAT, SCBA, etc
-
-# PHASE 1 GPP:
-* Primary Task cat: Relative Strength
-* Secondary Task cat: Aerobic Endurance
-* Tertiary Task cat: Muscular Endurance
-
-# PHASE 2 SPP:
