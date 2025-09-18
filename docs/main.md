@@ -1,5 +1,5 @@
 # Timetable 
-* (Ref @ [Overview](./overview.md))
+* Syntax ref @ [Overview](./overview.md)
 
 | Time       | Proc                                    |
 |------------|-----------------------------------------|
