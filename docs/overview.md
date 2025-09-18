@@ -68,7 +68,9 @@
 * "expl" = "Explain"
 * "&" = "And"
 * "util" = "Utility" OR "Utilization"
-* "ans" = "Answer"                                                                                                                   # OCCUPATIONAL S&C PRGRM OVERVIEW:
+* "ans" = "Answer"
+
+# OCCUPATIONAL S&C PRGRM OVERVIEW:
 
 | Task cat                             | Task ex                                             | Time  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
