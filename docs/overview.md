@@ -19,7 +19,7 @@
 | Activation              | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run        | AM/PM | Main task action mimicry                   |
 | Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | AM/PM | Main task                           |
 | Cessation               | Calf Stretch, Seated Hip Rotation                   | AM/PM | Temp reg & homeostasis              |
-| General Physical Preparedness/GPP  | Task cat w/ gen dist                                | AM/PM | Gen perf & phys health       |
+| General Physical Preparedness/GPP  | Task cat w/ gen dist                                | AM/PM | Gen physiology & body comp       |
 | Specific Physical Preparedness/SPP | Task cat w/ spec dist                               | AM/PM | Spec perf w/ mod equip integ & CQC post-GPP           |
 | Tactical Technical Preparedness/TTP | Violence of Action dev                               | AM/PM | Spec perf w/ high equip integ & CQC post-SPP           |
 
