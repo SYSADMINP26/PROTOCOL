@@ -5,7 +5,7 @@
 * Wipe genitals w/ paper
 * Dipose of paper
 * Wash hands w/ BZK 2x 30 sec
-*-----------------------------
+* -----------------------------
 * If defecation:
 * Then wipe receptacle w/ BZK
 * Defecate into receptacle
