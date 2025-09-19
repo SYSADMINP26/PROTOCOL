@@ -104,7 +104,7 @@
 # ENDURANCE Matrix:
 | Task cat                             | Task ex                                             | Time  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Endurance                      | Strength, Muscular, Aerobic, Power Endurance  | AM | All endurance quals |
+| Endurance                      | Strength Endurance, Muscular Endurance, Aerobic Endurance, Power Endurance  | AM | All endurance quals |
 | Strength Endurance             | Loaded carries, LBE marching                   | AM    | Sustained force output vs external load   |
 | Muscular Endurance             | Rope climbing, Metronome push-ups                   | AM    | Repeated musc contractions @ low intensity   |
 | Aerobic Endurance               | 75% HR max runs, LBE marching                       | AM    | Long-duration low-intensity effort  |
