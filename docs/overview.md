@@ -3,7 +3,7 @@
 * "max" = Maximum
 * "min" = Minimum
 * "env" = Environment
-* "prgrm" = ProgrBlock 1
+* "prgrm" = Program
 * "regs" = Regulations                                      
 * "S&C" = Strength & Conditioning
 * "PT" = Physical Training
@@ -15,8 +15,8 @@
 * "NSA" = No Scheduled Activity
 * "ENDEX" = End Exercise
 * "FTA" = Failure to Adapt
-* "Block 2CS" = Preventative Maintenance Checks & Services
-* "Block 2S" = Preventative Maintenance Scheduled
+* "PMCS" = Preventative Maintenance Checks & Services
+* "PMS" = Preventative Maintenance Scheduled
 * "mem" = Memory
 * "w/" = With
 * "w/in" = Within
@@ -26,13 +26,13 @@
 * "b/w" = Between
 * "vs" = Versus
 * "etc" = Et cetera
-* "e.g." = For exBlock 1ple
+* "e.g." = For example
 * "thru" = Through
 * "i.e." = That is
 * "+" = Positive
 * "-" = Negative
 * "/" = Per
-* "~" OR "approx" = Approximately
+* "~" = Approximately
 * "min" = Minute
 * "sec" = Second
 * "wk" = Week
@@ -45,7 +45,7 @@
 * "BW" = Bodyweight
 * "sim" = simulation
 * "perf" = Performance
-* "dev" = DeveloBlock 2ent
+* "dev" = Development
 * "integ" = Integration
 * "adapt" = Adaptation
 * "dist" = Distribution
@@ -60,11 +60,11 @@
 * "RPE" = Rate of Perceived Exertion
 * "RIR" = Reps in Reserve
 * "HR" = Heart Rate
-* "LBE" = Load Bearing EquiBlock 2ent
+* "LBE" = Load Bearing Equipment
 * "recon" = Reconnaissance
 * "TAPS" = Tactical Assault Panel System
 * "CQC" = Close Quarters Combat
-* "equip" = EquiBlock 2ent
+* "equip" = Equipment
 * "sys" = System
 * "SCBA" = Self-Contained Breathing Apparatus
 * "CBRN" = Chemical, Biological, Radiological, Nuclear
@@ -74,7 +74,7 @@
 * "N/A" = Not Applicable
 * "expl" = Explain
 * "&" = And
-* "util" = Utility OR Utilization
+* "util" = Utilization
 * "ans" = Answer
 * "MEDEVAC" = Medical Evacuation
 * "IMT" = Individ Mvmt Techniques
@@ -83,7 +83,7 @@
 * "AAR" = After Action Report
 * "TTPs" = Tactics, Techniques, Procedures
 * "prep" = Preparation
-* "dev" = DeveloBlock 2ent
+* "dev" = Development
 * "ct" = Count
 * "quals" = Qualities
 
@@ -94,14 +94,14 @@
 | Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | Block 2    | Max mvmt velocity                   |
 | Neuromuscular Stabilization    | Unilateral isometric holds, Crawling                | Block 1    | Coordinated static stability        |
 | Reactive Agility              | Change of Direction drills, Shuffling               | Block 2    | Direction change & env reaction    |
-| Anaerobic StBlock 1ina               | Obstacle courses, Interval runs                     | Block 1    | Short-duration high-intensity effort|
+| Anaerobic Stamina               | Obstacle courses, Interval runs                     | Block 1    | Short-duration high-intensity effort|
 
 # Phase Matrix:
-| Task cat                             | Task ex                                             | Block  | Def                                 |
-|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| GPP  | Task cat w/ gen dist                               | Block 1/Block 2 | Gen physiology & body comp       |
-| SPP | Task cat w/ occupation-spec dist                               | Block 1/Block 2 | Spec skill-based perf post-GPP           |
-| TTP | Violence of Action dev                               | Block 1/Block 2 | Spec sim-based perf w/ high equip integ & CQC post-SPP           |
+| Task cat                             | Task ex                                             | Def                                 |
+|--------------------------------------|-----------------------------------------------------|-------------------------------------|
+| GPP  | Task cat w/ gen dist                                Gen physiology dev & body comp       |
+| SPP | Task cat w/ occupation-spec dist                                Spec skill-based perf post-GPP           |
+| TTP | Violence of Action dev                                Spec sim-based perf w/ high equip integ & CQC post-SPP           |
 
 # Strength Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
@@ -112,7 +112,7 @@
 # Power Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Absolute Power             | Sled mvmt, SlBlock 1s, Shouldering, Hoisting             | Block 2    | Max explosive force vs load              |
+| Absolute Power             | Sled mvmt, Slamss, Shouldering, Hoisting             | Block 2    | Max explosive force vs load              |
 | Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | Block 2    | Explosive force relative to BW           |
 
 # Endurance Matrix:
@@ -125,14 +125,14 @@
 | Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | Block 2    | Repeated expl vs fatigue            |
 
 # Mvmt prep Matrix:
-| Task cat                             | Task ex                                             | Block  | Def                                 |
-|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Globalization           | Jump Rope, 4 ct Side straddle hops                  | Block 1/Block 2 | Raise core temp pre mvmt prep                    |
-| Localization              | Hip Flexion, Contralateral Toe Reach                | Block 1/Block 2 | Local pre mvmt prep                          |
-| Mobilization            | Bend w/ Reach, Trunk mvmt w/ Overhead Reach         | Block 1/Block 2 | ROM increase pre mvmt prep                       | 
-| Activation              | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run        | Block 1/Block 2 | Main task action mimicry pre mvmt prep                  |
-| Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | Block 1/Block 2 | Main task mvmt                          |
-| Cessation               | Calf Stretch, Seated Hip Rotation                   | Block 1/Block 2 | Temp reg & homeostasis post mvmt             |
+| Task cat                             | Task ex                                             | Def                                 |
+|--------------------------------------|-----------------------------------------------------|-------------------------------------|
+| Globalization           | Jump Rope, 4 ct Side straddle hops                  | Raise core temp pre mvmt prep                    |
+| Localization              | Hip Flexion, Contralateral Toe Reach                | Local pre mvmt prep                          |
+| Mobilization            | Bend w/ Reach, Trunk mvmt w/ Overhead Reach         | ROM increase pre mvmt prep                       | 
+| Activation              | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run        | Main task action mimicry pre mvmt prep                  |
+| Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | Main task mvmt                          |
+| Cessation               | Calf Stretch, Seated Hip Rotation                   | Temp reg & homeostasis post mvmt             |
 
 > NOTE: 
 > PRGRM METHODOLOGY:
