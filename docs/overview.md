@@ -38,7 +38,6 @@
 * "reps" = Repetitions
 * "RM" = Rep Max
 * "mvmt" = Movement
-* "musc" = Muscular
 * "ROM" = Range of Motion
 * "BW" = Bodyweight
 * "sim" = simulation
@@ -92,7 +91,7 @@
 | Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | PM    | Max mvmt velocity                   |
 | Neuromuscular Stabilization    | Unilateral isometric holds, Crawling                | AM    | Coordinated static stability        |
 | Reactive Agility              | Change of Direction drills, Shuffling               | PM    | Direction change & env reaction    |
-| Absolute Strength              | 1-5RM compound mvmt, Hoisting                       | PM    | Max musc force vs load              |
+| Absolute Strength              | 1-5RM compound mvmt, Hoisting                       | PM    | Max muscular force vs load              |
 | Anaerobic Stamina               | Obstacle courses, Interval runs                     | AM    | Short-duration high-intensity effort|
 | Relative Strength               | Suspension sys, TAPS calisthenics                   | PM    | Musc force relative to BW           |
 | Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | PM    | Explosive force relative to BW           |
@@ -104,9 +103,9 @@
 # ENDURANCE Matrix:
 | Task cat                             | Task ex                                             | Time  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Endurance                      | Strength Endurance, Muscular Endurance, Aerobic Endurance, Power Endurance  | AM | All endurance quals |
+| Gen Endurance                      | Strength Endurance, Muscular Endurance, Aerobic Endurance, Power Endurance  | AM | All endurance quals |
 | Strength Endurance             | Loaded carries, LBE marching                   | AM    | Sustained force output vs external load   |
-| Muscular Endurance             | Rope climbing, Metronome push-ups                   | AM    | Repeated musc contractions @ low intensity   |
+| Muscular Endurance             | Rope climbing, Metronome push-ups                   | AM    | Repeated muscular contractions @ low intensity   |
 | Aerobic Endurance               | 75% HR max runs, LBE marching                       | AM    | Long-duration low-intensity effort  |
 | Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | PM    | Repeated expl vs fatigue            |
 
