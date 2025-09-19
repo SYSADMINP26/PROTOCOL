@@ -22,6 +22,7 @@
 * "vs" = Versus
 * "etc" = Et cetera
 * "e.g." = For example
+* "thru" = Through
 * "i.e." = That is
 * "+" = Positive
 * "-" = Negative
@@ -97,8 +98,8 @@
 | Relative Strength               | Suspension sys, TAPS calisthenics                   | PM    | Musc force relative to BW           |
 | Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | PM    | Expl force relative to BW           |
 | Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | PM    | Max expl force vs load              |
-| Power Endurance        | Chest push w/ Obj Throw, Burpee w/ vert jump        | PM    | Repeated expl vs fatigue            |
-| Globalization           | Jump Rope, 4 ct Side Straddle Hops                  | AM/PM | Raise core temp pre mvmt prep                    |
+| Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | PM    | Repeated expl vs fatigue            |
+| Globalization           | Jump Rope, 4 ct Side straddle hops                  | AM/PM | Raise core temp pre mvmt prep                    |
 | Localization              | Hip Flexion, Contralateral Toe Reach                | AM/PM | Local pre mvmt prep                          |
 | Mobilization            | Bend w/ Reach, Trunk mvmt w/ Overhead Reach         | AM/PM | ROM increase pre mvmt prep                       | 
 | Activation              | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run        | AM/PM | Main task action mimicry pre mvmt prep                  |
