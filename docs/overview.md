@@ -97,12 +97,12 @@
 | Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | PM    | Expl force relative to BW           |
 | Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | PM    | Max expl force vs load              |
 | Power Endurance        | Chest push w/ Obj Throw, Burpee w/ vert jump        | PM    | Repeated expl vs fatigue            |
-| Globalization           | Jump Rope, 4 ct Side Straddle Hops                  | AM/PM | Raise core temp                     |
-| Localization              | Hip Flexion, Contralateral Toe Reach                | AM/PM | Local prep                          |
-| Mobilization            | Bend w/ Reach, Trunk mvmt w/ Overhead Reach         | AM/PM | ROM increase                        | 
-| Activation              | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run        | AM/PM | Main task action mimicry                   |
-| Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | AM/PM | Main task                           |
-| Cessation               | Calf Stretch, Seated Hip Rotation                   | AM/PM | Temp reg & homeostasis              |
+| Globalization           | Jump Rope, 4 ct Side Straddle Hops                  | AM/PM | Raise core temp pre mvmt prep                    |
+| Localization              | Hip Flexion, Contralateral Toe Reach                | AM/PM | Local pre mvmt prep                          |
+| Mobilization            | Bend w/ Reach, Trunk mvmt w/ Overhead Reach         | AM/PM | ROM increase pre mvmt prep                       | 
+| Activation              | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run        | AM/PM | Main task action mimicry pre mvmt prep                  |
+| Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | AM/PM | Main task mvmt                          |
+| Cessation               | Calf Stretch, Seated Hip Rotation                   | AM/PM | Temp reg & homeostasis post mvmt             |
 | General Physical Preparedness/GPP  | Task cat w/ gen dist                                | AM/PM | Gen physiology & body comp       |
 | Specific Physical Preparedness/SPP | Task cat w/ occupation-spec dist                               | AM/PM | Spec skill-based perf post-GPP           |
 | Tactical Technical Preparedness/TTP | Violence of Action dev                               | AM/PM | Spec stimulation-based perf w/ high equip integ & CQC post-SPP           |
