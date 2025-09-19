@@ -77,6 +77,7 @@
 * "obj" = Object
 * "AAR" = After Action Report
 * "TTPs" = Tactics, Techniques, Procedures
+* "prep" = Preparation
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
