@@ -1,5 +1,7 @@
 # SYNTAX OVERVIEW:
 * "individ" = Individual
+* "max" = Maximum
+* "min" = Minimum
 * "env" = Environment
 * "prgrm" = Program
 * "regs" = Regulations                                      
