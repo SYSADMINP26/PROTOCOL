@@ -94,6 +94,8 @@
 | Anaerobic Stamina               | Obstacle courses, Interval runs                     | AM    | Short-duration high-intensity effort|
 
 # Phase Matrix:
+| Task cat                             | Task ex                                             | Time  | Def                                 |
+|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
 | General Physical Preparedness/GPP  | Task cat w/ gen dist                               | AM/PM | Gen physiology & body comp       |
 | Specific Physical Preparedness/SPP | Task cat w/ occupation-spec dist                               | AM/PM | Spec skill-based perf post-GPP           |
 | Tactical Technical Preparedness/TTP | Violence of Action dev                               | AM/PM | Spec simulation-based perf w/ high equip integ & CQC post-SPP           |
