@@ -1,11 +1,24 @@
 # Timetable 
-* Syntax & prgrm ref @ [Overview](./overview.md)
+* [README](./README.md)
 
 | Time       | Proc                                    |
 |------------|-----------------------------------------|
-| 0430-0435 | [SF 1](./sf-1.md)|
-| 0435-0535 | [Block 1](./block-1.md)|
-| 0600-0605 | [SF 1](./sf-2.md)|
-| 1030-1040 | [SF 3](./sf-3.md)|
-| 1040-1050 | [DISINFECTION](./disinfection.md)|
-
+| 0430-0435 | [SF 1](./sf-1.md) |
+| 0435-0535 | [Block 1](./block-1.md) |
+| 0535-0545 | [Decon](./decon.md) |
+| 0545-0600 | [PMCS](./pmcs.md) |
+| 0600-0605 | [SF 2](./sf-2.md) |
+| 0605-1030 | [Ops](./ops.md) |
+| 1030-1035 | [SF 3](./sf-3.md) |
+| 1035-1040 | [Disinfection](./disinfection.md) |
+| 1040-1245 | [Ops](./ops.md) |
+| 1245-1250 | [SF 4](./sf-4.md) |
+| 1250-1600 | [Ops](./ops.md) |
+| 1600-1605 | [SF 5](./sf-5.md) |
+| 1605-1805 | [Ops](./ops.md) |
+| 1805-1845 | [Block 2](./block-2.md) |
+| 1845-1855 | [Decon](./decon.md) |
+| 1855-1900 | [PMCS](./pmcs.md) |
+| 1900-1905 | [SF 6](./sf-6.md) |
+| 1905-2030 | [Ops](./ops.md) |
+| 2030-2100 | [PMS](./pms.md) |
