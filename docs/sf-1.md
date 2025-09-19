@@ -1,4 +1,4 @@
-# NUTRITION TIMETABLE:
+# SF 1 proc:
 
 |   ITEM       | H20 (L)  | PRO (g)   | CHO (g)  | FAT (g) |
 |--------------|----------|-----------|----------|---------|

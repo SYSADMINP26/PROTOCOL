@@ -1,4 +1,4 @@
-# DISINFECTION PROC:
+# Disinfection proc:
 
 ## If urination:
 * Then urinate into receptacle

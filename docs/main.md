@@ -1,4 +1,5 @@
-# Timetable 
+# Timetable: 
+
 * [README](./README.md)
 
 | Time       | Proc                              |
@@ -21,4 +22,3 @@
 | 1905-1910 | [Disinfection](./disinfection.md) |
 | 1910-2030 | [Ops](./ops.md) |
 | 2030-0430 | NSA |
-
