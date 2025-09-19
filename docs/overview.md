@@ -79,6 +79,7 @@
 * "TTPs" = Tactics, Techniques, Procedures
 * "prep" = Preparation
 * "dev" = Development
+* "ct" = Count
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
