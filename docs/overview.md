@@ -1,5 +1,6 @@
 # SYNTAX OVERVIEW:
 * "individ" = Individual
+* "env" = Environment
 * "prgrm" = Program
 * "regs" = Regulations                                      
 * "S&C" = Strength & Conditioning
@@ -98,7 +99,7 @@
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
 | GPP  | Task cat w/ gen dist                               | AM/PM | Gen physiology & body comp       |
 | SPP | Task cat w/ occupation-spec dist                               | AM/PM | Spec skill-based perf post-GPP           |
-| TTP | Violence of Action dev                               | AM/PM | Spec simulation-based perf w/ high equip integ & CQC post-SPP           |
+| TTP | Violence of Action dev                               | AM/PM | Spec sim-based perf w/ high equip integ & CQC post-SPP           |
 
 # Strength Matrix:
 | Task cat                             | Task ex                                             | Time  | Def                                 |
