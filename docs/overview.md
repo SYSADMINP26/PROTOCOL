@@ -102,6 +102,8 @@
 | Tactical Technical Preparedness/TTP | Violence of Action dev                               | AM/PM | Spec simulation-based perf w/ high equip integ & CQC post-SPP           |
 
 # ENDURANCE Matrix:
+| Task cat                             | Task ex                                             | Time  | Def                                 |
+|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
 | Endurance                      | Strength, Muscular, Aerobic, Power Endurance  | AM | All endurance quals |
 | Strength Endurance             | Loaded carries, LBE marching                   | AM    | Muscle contraction w/o cardio sys   |
 | Muscular Endurance             | Rope climbing, Metronome push-ups                   | AM    | Muscle contraction w/o cardio sys   |
