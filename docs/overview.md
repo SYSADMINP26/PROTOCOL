@@ -26,7 +26,7 @@
 * "b/w" = Between
 * "vs" = Versus
 * "etc" = Et cetera
-* "e.g." = For example
+* "ex" = Example
 * "thru" = Through
 * "i.e." = That is
 * "+" = Positive
