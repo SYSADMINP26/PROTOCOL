@@ -99,9 +99,9 @@
 # Phase Matrix:
 | Task cat                             | Task ex                                             | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------------------------------------|
-| GPP  | Task cat w/ gen dist                                Gen physiology dev & body comp       |
-| SPP | Task cat w/ occupation-spec dist                                Spec skill-based perf post-GPP           |
-| TTP | Violence of Action dev                                Spec sim-based perf w/ high equip integ & CQC post-SPP           |
+| GPP  | Task cat w/ gen dist |                               Gen physiology dev & body comp       |
+| SPP | Task cat w/ occupation-spec dist |                               Spec skill-based perf post-GPP           |
+| TTP | Violence of Action dev        |                        Spec sim-based perf w/ high equip integ & CQC post-SPP           |
 
 # Strength Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
