@@ -107,6 +107,8 @@
 | Relative Strength               | Suspension sys, TAPS calisthenics                   | PM    | Musc force relative to BW           |
 
 # Power Matrix:
+| Task cat                             | Task ex                                             | Time  | Def                                 |
+|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
 | Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | PM    | Max explosive force vs load              |
 | Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | PM    | Explosive force relative to BW           |
 
@@ -119,7 +121,7 @@
 | Aerobic Endurance               | 75% HR max runs, LBE marching                       | AM    | Long-duration low-intensity effort  |
 | Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | PM    | Repeated expl vs fatigue            |
 
-# MVMT PREP Matrix:
+# Mvmt prep Matrix:
 | Task cat                             | Task ex                                             | Time  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
 | Globalization           | Jump Rope, 4 ct Side straddle hops                  | AM/PM | Raise core temp pre mvmt prep                    |
