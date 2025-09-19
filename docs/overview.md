@@ -73,6 +73,8 @@
 * "ans" = Answer
 * "MEDEVAC" = Medical Evacuation
 * "IMT" = Individ Mvmt Techniques
+* "vert" = Vertical
+* "obj" = Object
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
