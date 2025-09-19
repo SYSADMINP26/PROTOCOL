@@ -112,7 +112,7 @@
 # Power Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Absolute Power             | Sled mvmt, Slamss, Shouldering, Hoisting             | Block 2    | Max explosive force vs load              |
+| Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | Block 2    | Max explosive force vs load              |
 | Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | Block 2    | Explosive force relative to BW           |
 
 # Endurance Matrix:
@@ -121,7 +121,7 @@
 | Gen Endurance                      | Strength Endurance, Muscular Endurance, Aerobic Endurance, Power Endurance  | Block 1 | All endurance quals |
 | Strength Endurance             | Loaded carries, LBE marching                   | Block 1    | Sustained force output vs external load   |
 | Muscular Endurance             | Rope climbing, Metronome push-ups                   | Block 1    | Repeated muscular contractions @ low intensity   |
-| Aerobic Endurance               | 75% HR max runs, LBE marching                       | Block 1    | Long-duration low-intensity effort  |
+| Aerobic Endurance               | 75% HR max runs, Swimming                       | Block 1    | Long-duration low-intensity effort  |
 | Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | Block 2    | Repeated expl vs fatigue            |
 
 # Mvmt prep Matrix:
