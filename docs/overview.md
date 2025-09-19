@@ -91,16 +91,24 @@
 | Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | PM    | Max mvmt velocity                   |
 | Neuromuscular Stabilization    | Unilateral isometric holds, Crawling                | AM    | Coordinated static stability        |
 | Reactive Agility              | Change of Direction drills, Shuffling               | PM    | Direction change & env reaction    |
-| Absolute Strength              | 1-5RM compound mvmt, Hoisting                       | PM    | Max muscular force vs load              |
 | Anaerobic Stamina               | Obstacle courses, Interval runs                     | AM    | Short-duration high-intensity effort|
-| Relative Strength               | Suspension sys, TAPS calisthenics                   | PM    | Musc force relative to BW           |
-| Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | PM    | Explosive force relative to BW           |
-| Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | PM    | Max explosive force vs load              |
+
+# Phase Matrix:
 | General Physical Preparedness/GPP  | Task cat w/ gen dist                               | AM/PM | Gen physiology & body comp       |
 | Specific Physical Preparedness/SPP | Task cat w/ occupation-spec dist                               | AM/PM | Spec skill-based perf post-GPP           |
 | Tactical Technical Preparedness/TTP | Violence of Action dev                               | AM/PM | Spec simulation-based perf w/ high equip integ & CQC post-SPP           |
 
-# ENDURANCE Matrix:
+# Strength Matrix:
+| Task cat                             | Task ex                                             | Time  | Def                                 |
+|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
+| Absolute Strength              | 1-5RM compound mvmt, Hoisting                       | PM    | Max muscular force vs load              |
+| Relative Strength               | Suspension sys, TAPS calisthenics                   | PM    | Musc force relative to BW           |
+
+# Power Matrix:
+| Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | PM    | Max explosive force vs load              |
+| Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | PM    | Explosive force relative to BW           |
+
+# Endurance Matrix:
 | Task cat                             | Task ex                                             | Time  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
 | Gen Endurance                      | Strength Endurance, Muscular Endurance, Aerobic Endurance, Power Endurance  | AM | All endurance quals |
