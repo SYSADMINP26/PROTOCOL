@@ -105,8 +105,8 @@
 | Task cat                             | Task ex                                             | Time  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
 | Endurance                      | Strength, Muscular, Aerobic, Power Endurance  | AM | All endurance quals |
-| Strength Endurance             | Loaded carries, LBE marching                   | AM    | Muscle contraction w/o cardio sys   |
-| Muscular Endurance             | Rope climbing, Metronome push-ups                   | AM    | Muscle contraction w/o cardio sys   |
+| Strength Endurance             | Loaded carries, LBE marching                   | AM    | Sustained force output vs external load   |
+| Muscular Endurance             | Rope climbing, Metronome push-ups                   | AM    | Repeated musc contractions @ low intensity   |
 | Aerobic Endurance               | 75% HR max runs, LBE marching                       | AM    | Long-duration low-intensity effort  |
 | Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | PM    | Repeated expl vs fatigue            |
 
