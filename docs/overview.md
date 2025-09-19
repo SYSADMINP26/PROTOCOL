@@ -39,7 +39,7 @@
 * "musc" = Muscular
 * "ROM" = Range of Motion
 * "BW" = Bodyweight
-* "stim" = Stimulation
+* "sim" = simulation
 * "perf" = Performance
 * "dev" = Development
 * "integ" = Integration
@@ -108,13 +108,13 @@
 | Cessation               | Calf Stretch, Seated Hip Rotation                   | AM/PM | Temp reg & homeostasis post mvmt             |
 | General Physical Preparedness/GPP  | Task cat w/ gen dist                               | AM/PM | Gen physiology & body comp       |
 | Specific Physical Preparedness/SPP | Task cat w/ occupation-spec dist                               | AM/PM | Spec skill-based perf post-GPP           |
-| Tactical Technical Preparedness/TTP | Violence of Action dev                               | AM/PM | Spec stimulation-based perf w/ high equip integ & CQC post-SPP           |
+| Tactical Technical Preparedness/TTP | Violence of Action dev                               | AM/PM | Spec simulation-based perf w/ high equip integ & CQC post-SPP           |
 
 > NOTE: 
 > PRGRM METHODOLOGY:
 > * Qual dev, maintenance, & improvement
 > * Interference avoidance
-> * Complementary stim util e.g. Complex Absolute Strength-Relative Power Session
+> * Complementary sim util e.g. Complex Absolute Strength-Relative Power Session
 > * Intensity, volume, recovery, etc guidelines w/ RPE/RIR util 
 > * Equip integ e.g. CBRN/HAZMAT equip integ w/ Aerobic Endurance 
 # STRENGTH & CONDITIONING MATERIEL:
