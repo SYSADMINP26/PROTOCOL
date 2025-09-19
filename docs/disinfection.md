@@ -5,6 +5,7 @@
 * Wipe genitals w/ paper
 * Dipose of paper
 * Wash hands w/ BZK 2x 30 sec
+* Brush teeth w/ toothbrush & fluoride toothpaste 2 min
 * -----------------------------
 * If defecation:
 * Then wipe receptacle w/ BZK
@@ -12,3 +13,4 @@
 * Wipe genitals w/ paper
 * Dispose of paper
 * Wash hands w/ BZK 2x 30 sec
+* Brush teeth w/ toothbrush & fluoride toothpaste 2 min
