@@ -75,6 +75,7 @@
 * "IMT" = Individ Mvmt Techniques
 * "vert" = Vertical
 * "obj" = Object
+* "AAR" = After Action Report
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
