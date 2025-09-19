@@ -78,6 +78,7 @@
 * "AAR" = After Action Report
 * "TTPs" = Tactics, Techniques, Procedures
 * "prep" = Preparation
+* "dev" = Development
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
