@@ -89,13 +89,6 @@
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
-| Task cat                             | Task ex                                             | Block  | Def                                 |
-|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | Block 2    | Max mvmt velocity                   |
-| Neuromuscular Stabilization    | Unilateral isometric holds, Crawling                | Block 1    | Coordinated static stability        |
-| Reactive Agility              | Change of Direction drills, Shuffling               | Block 2    | Direction change & env reaction    |
-| Anaerobic Stamina               | Obstacle courses, Interval runs                     | Block 1    | Short-duration high-intensity effort|
-
 # Phase Matrix:
 | Task cat                             | Task ex                                             | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------------------------------------|
@@ -124,7 +117,16 @@
 | Aerobic Endurance               | 75% HR max runs, Swimming                       | Block 1    | Long-duration low-intensity effort  |
 | Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | Block 2    | Repeated expl vs fatigue            |
 
-# Mvmt prep Matrix:
+# Mvmt Matrix:
+| Task cat                             | Task ex                                             | Block  | Def                                 |
+|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
+| Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | Block 2    | Max mvmt velocity                   |
+| Reactive Agility              | Change of Direction drills, Shuffling               | Block 2    | Direction change & env reaction    |
+| Neuromuscular Stabilization    | Unilateral isometric holds, Crawling                | Block 1    | Coordinated static stability        |
+| Anaerobic Stamina               | Obstacle courses, Interval runs                     | Block 1    | Short-duration high-intensity effort|
+
+
+# Prep Matrix:
 | Task cat                             | Task ex                                             | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------------------------------------|
 | Globalization           | Jump Rope, 4 ct Side straddle hops                  | Raise core temp pre mvmt prep                    |
