@@ -76,6 +76,7 @@
 * "vert" = Vertical
 * "obj" = Object
 * "AAR" = After Action Report
+* "TTPs" = Tactics, Techniques, Procedures
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
