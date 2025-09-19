@@ -92,19 +92,21 @@
 | Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | PM    | Max mvmt velocity                   |
 | Neuromuscular Stabilization    | Unilateral isometric holds, Crawling                | AM    | Coordinated static stability        |
 | Reactive Agility              | Change of Direction drills, Shuffling               | PM    | Direction change & env reaction    |
-| Endurance                      | Strength, Muscular, Aerobic, Power Endurance  | AM | All endurance quals |
-| Strength Endurance             | Loaded carries, LBE marching                   | AM    | Muscle contraction w/o cardio sys   |
-| Muscular Endurance             | Rope climbing, Metronome push-ups                   | AM    | Muscle contraction w/o cardio sys   |
-| Aerobic Endurance               | 75% HR max runs, LBE marching                       | AM    | Long-duration low-intensity effort  |
 | Absolute Strength              | 1-5RM compound mvmt, Hoisting                       | PM    | Max musc force vs load              |
 | Anaerobic Stamina               | Obstacle courses, Interval runs                     | AM    | Short-duration high-intensity effort|
 | Relative Strength               | Suspension sys, TAPS calisthenics                   | PM    | Musc force relative to BW           |
 | Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | PM    | Expl force relative to BW           |
 | Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | PM    | Max expl force vs load              |
-| Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | PM    | Repeated expl vs fatigue            |
 | General Physical Preparedness/GPP  | Task cat w/ gen dist                               | AM/PM | Gen physiology & body comp       |
 | Specific Physical Preparedness/SPP | Task cat w/ occupation-spec dist                               | AM/PM | Spec skill-based perf post-GPP           |
 | Tactical Technical Preparedness/TTP | Violence of Action dev                               | AM/PM | Spec simulation-based perf w/ high equip integ & CQC post-SPP           |
+
+# ENDURANCE Matrix:
+| Endurance                      | Strength, Muscular, Aerobic, Power Endurance  | AM | All endurance quals |
+| Strength Endurance             | Loaded carries, LBE marching                   | AM    | Muscle contraction w/o cardio sys   |
+| Muscular Endurance             | Rope climbing, Metronome push-ups                   | AM    | Muscle contraction w/o cardio sys   |
+| Aerobic Endurance               | 75% HR max runs, LBE marching                       | AM    | Long-duration low-intensity effort  |
+| Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | PM    | Repeated expl vs fatigue            |
 
 # MVMT PREP Matrix:
 | Task cat                             | Task ex                                             | Time  | Def                                 |
