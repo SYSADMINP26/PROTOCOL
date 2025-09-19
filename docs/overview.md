@@ -80,6 +80,7 @@
 * "prep" = Preparation
 * "dev" = Development
 * "ct" = Count
+* "quals" = Qualities
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
