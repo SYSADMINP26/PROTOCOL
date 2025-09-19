@@ -1,6 +1,6 @@
 # SYNTAX OVERVIEW:
 * "individ" = Individual
-* "prgrm" = Program                                                                                                                * "regs" = Regulations                                      
+* "prgrm" = Program                                                                                                                 * "regs" = Regulations                                      
 * "S&C" = Strength & Conditioning
 * "PT" = Physical Training
 * "SERE" = Survival, Evasion, Resistance, Escape
