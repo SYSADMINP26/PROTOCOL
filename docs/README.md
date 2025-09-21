@@ -54,7 +54,7 @@
 * "vol" = Volume
 * "int" = Intensity
 * "rec" = Recovery
-* "GPP" = General Physical Preparedness
+* "GPP" = Gen Physical Preparedness
 * "SPP" = Specific Physical Preparedness
 * "TTP" = Tactical Technical Preparedness
 * "RPE" = Rate of Perceived Exertion
@@ -92,27 +92,29 @@
 # Phase Matrix:
 | Task cat                             | Task ex                                             | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------------------------------------|
-| GPP  | Task cat w/ gen dist |                               Gen physiology dev & body comp       |
-| SPP | Task cat w/ occupation-spec dist |                               Spec skill-based perf post-GPP           |
-| TTP | Violence of Action dev        |                        Spec sim-based perf w/ high equip integ & CQC post-SPP           |
+| GPP                                  | Task cat w/ gen dist                                | Gen physiology dev & body comp      |
+| SPP                                  | Task cat w/ occupation-spec dist                    | Spec skill-based perf post-GPP      |
+| TTP                                  | Violence of Action dev |                       Spec sim-based perf w/ high equip integ & CQC post-SPP           |
 
 # Strength Matrix:
-| Task cat                             | Task ex                                             | Block  | Def                                 |
-|--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Absolute Strength              | 1-5RM compound mvmt, Hoisting                       | Block 2    | Max muscular force vs load              |
-| Relative Strength               | Suspension sys, TAPS calisthenics                   | Block 2    | Musc force relative to BW           |
+| Task cat                             | Task ex                                             | Def                                 |
+|--------------------------------------|-----------------------------------------------------|-------------------------------------|
+| Gen Strength                         | Weighted pull ups, Sandbag overhead press           | Block 2 | Overcoming musculoskeletal resistance |
+| Absolute Strength       | 1-5RM compound mvmt, Hoisting                | Block 2 | Max muscular force vs load         |
+| Relative Strength      | Suspension sys, TAPS calisthenics            | Block 2 | Musc force relative to BW          |
 
 # Power Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
+| Gen Power | Jumping pull ups, Cleans | Block 2 | Generate max force as rapidly as possible |
 | Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | Block 2    | Max explosive force vs load              |
 | Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | Block 2    | Explosive force relative to BW           |
 
 # Endurance Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Gen Endurance                      | Strength Endurance, Muscular Endurance, Aerobic Endurance, Power Endurance  | Block 1 | All endurance quals |
-| Strength Endurance             | Loaded carries, LBE marching                   | Block 1    | Sustained force output vs external load   |
+| Gen Endurance                        | Strength Endurance, Muscular Endurance, Aerobic Endurance, Power Endurance  | Block 1 | All endurance quals |
+| Strength Endurance                   | Loaded carries, LBE marching                   | Block 1    | Sustained force output vs external load   |
 | Muscular Endurance             | Rope climbing, Metronome push-ups                   | Block 1    | Repeated muscular contractions @ low intensity   |
 | Aerobic Endurance               | 75% HR max runs, Swimming                       | Block 1    | Long-duration low-intensity effort  |
 | Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | Block 2    | Repeated expl vs fatigue            |
