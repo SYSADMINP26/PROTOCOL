@@ -86,6 +86,8 @@
 * "dev" = Development
 * "ct" = Count
 * "quals" = Qualities
+* "AMRAP" = As many reps as possible
+* "EMOM" = Every min on min
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
@@ -113,11 +115,12 @@
 # Endurance Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Gen Endurance                        | Strength Endurance, Muscular Endurance, Aerobic Endurance, Power Endurance  | Block 1 | All endurance quals |
+| Gen Endurance                        | High volume sled drag, Rowing | Block 1 | All endurance quals |
 | Strength Endurance                   | Loaded carries, LBE marching                   | Block 1    | Sustained force output vs external load   |
 | Muscular Endurance             | Rope climbing, Metronome push-ups                   | Block 1    | Repeated muscular contractions @ low intensity   |
 | Aerobic Endurance               | 75% HR max runs, Swimming                       | Block 1    | Long-duration low-intensity effort  |
 | Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | Block 2    | Repeated expl vs fatigue            |
+| Anaerobic Stamina               | Obstacle courses, Interval runs                     | Block 1    | Short-duration high-intensity effort|
 
 # Mvmt Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
@@ -125,8 +128,6 @@
 | Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | Block 2    | Max mvmt velocity                   |
 | Reactive Agility              | Change of Direction drills, Shuffling               | Block 2    | Direction change & env reaction    |
 | Neuromuscular Stabilization    | Unilateral isometric holds, Crawling                | Block 1    | Coordinated static stability        |
-| Anaerobic Stamina               | Obstacle courses, Interval runs                     | Block 1    | Short-duration high-intensity effort|
-
 
 # Prep Matrix:
 | Task cat                             | Task ex                                             | Def                                 |
