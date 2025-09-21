@@ -145,7 +145,7 @@
 > * Equip integ e.g. CBRN/HAZMAT equip integ w/ Aerobic Endurance 
 # STRENGTH & CONDITIONING MATERIEL:
 * 1x Suspension sys
-* 1x SledgehBlock 1mer
+* 1x Sledgehammer
 * 1x Sandbag
 * ~7.82m Climbing Rope
 * 1x integ equip e.g. LBE/TAPS, CBRN/HAZMAT, SCBA, etc
