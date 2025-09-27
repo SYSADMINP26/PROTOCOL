@@ -18,7 +18,7 @@
 | 1900-1905 | [SF 5](./sf-5.md) |
 | 1905-1910 | [Disinfection](./disinfection.md) |
 | 1910-2030 | [Ops](./ops.md) |
-| 2030-0430 | NSA |
+| 2030-0430 | N/A |
 
 # SYNTAX OVERVIEW:
 * "complex" = Inverse
@@ -36,7 +36,7 @@
 * "info" = Information
 * "req" = Requirement, required
 * "mod" = Modification
-* "NSA" = No Scheduled Activity
+* "N/A" = Not applicable
 * "PMCS" = Preventative Maintenance Checks & Services
 * "mem" = Memory
 * "w/" = With
