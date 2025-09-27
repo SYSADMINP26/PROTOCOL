@@ -6,7 +6,7 @@
 | 0535-0550 | [Decon](./decon.md) |
 | 0550-0600 | [Support input 2](./support_input_2.md) |
 | 0600-1030 | [Ops](./ops.md) |
-| 1030-1035 | [Support input 3](./support_input_3.md) |
+| 1030-1040 | [Support input 3](./support_input_3.md) |
 | 1040-1600 | [Ops](./ops.md) |
 | 1600-1605 | [Support input 4](./support_input_4.md) |
 | 1605-1805 | [Ops](./ops.md) |
@@ -16,8 +16,7 @@
 | 1910-2030 | [Ops](./ops.md) |
 | 2030-0430 | N/A |
 
-# SYNTAX OVERVIEW:
-* "complex" = Inverse
+# Syntax overview:
 * "tech" = Technology
 * "individ" = Individual
 * "max" = Maximum
@@ -96,7 +95,7 @@
 * "MEDEVAC" = Medical Evacuation
 * "IMT" = Individ Mvmt Techniques
 * "vert" = Vertical
-* "obj" = Object
+* "obj" = Objective
 * "AAR" = After Action Report
 * "TTPs" = Tactics, Techniques, Procedures
 * "prep" = Preparation
@@ -105,6 +104,8 @@
 * "quals" = Qualities
 * "AMRAP" = As many reps as possible
 * "EMOM" = Every min on min
+* * "complex session" = Absolute Strength & Relative Power mvmt pairing
+
 
 # OCCUPATIONAL S&C PRGRM OVERVIEW:
 
