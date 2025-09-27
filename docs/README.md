@@ -1,4 +1,5 @@
 # SYNTAX OVERVIEW:
+* "tech" = Technology, Technical
 * "individ" = Individual
 * "max" = Maximum
 * "min" = Minimum
@@ -10,13 +11,10 @@
 * "SERE" = Survival, Evasion, Resistance, Escape
 * "OPSEC" = Operational Security
 * "info" = Information
-* "req" = Requirement
+* "req" = Requirement, required
 * "mod" = Modification
 * "NSA" = No Scheduled Activity
-* "ENDEX" = End Exercise
-* "FTA" = Failure to Adapt
 * "PMCS" = Preventative Maintenance Checks & Services
-* "PMS" = Preventative Maintenance Scheduled
 * "mem" = Memory
 * "w/" = With
 * "w/in" = Within
@@ -54,9 +52,9 @@
 * "vol" = Volume
 * "int" = Intensity
 * "rec" = Recovery
-* "GPP" = Gen Physical Preparedness
-* "SPP" = Specific Physical Preparedness
-* "TTP" = Tactical Technical Preparedness
+* "GPP" = Gen Phys Preparedness
+* "SPP" = Specific Phys Preparedness
+* "TTP" = Tactical Tech Preparedness
 * "RPE" = Rate of Perceived Exertion
 * "RIR" = Reps in Reserve
 * "HR" = Heart Rate
