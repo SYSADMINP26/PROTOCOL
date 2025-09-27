@@ -14,6 +14,8 @@
 | Day #5 | Block #1 | Neuromuscular Stabilization | N/A | N/A | N/A | N/A | - 4x20 reps Suspension sys plank tap w/ 30 sec rec <br> - 4x8 reps 1-Leg whips w/ 30 sec rec <br> - 3x6 reps 1-Leg squat w/ medial rotation w/ 30 sec rec | N/A |
 | Day #6 | Block #1 | Neuromuscular Stabilization | N/A | N/A | N/A | N/A | - 4x20 reps Suspension sys plank tap w/ 30 sec rec <br> - 4x8 reps 1-Leg whips w/ 30 sec rec <br> - 3x6 reps 1-Leg squat w/ medial rotation w/ 30 sec rec | N/A |
 | Day #6 | Block #2 | Neuromuscular Stabilization | N/A | N/A | N/A | N/A | - 4x20 reps Suspension sys plank tap w/ 30 sec rec <br> - 4x8 reps 1-Leg whips w/ 30 sec rec <br> - 3x6 reps 1-Leg squat w/ medial rotation w/ 30 sec rec | N/A |
+| Day #7 | Block #1 | Neuromuscular Stabilization | N/A | N/A | N/A | N/A | - 4x20 reps Suspension sys plank tap w/ 30 sec rec <br> - 4x8 reps 1-Leg whips w/ 30 sec rec <br> - 3x6 reps 1-Leg squat w/ medial rotation w/ 30 sec rec | N/A |
+| Day #7 | Block #2 | Neuromuscular Stabilization | N/A | N/A | N/A | N/A | - 4x20 reps Suspension sys plank tap w/ 30 sec rec <br> - 4x8 reps 1-Leg whips w/ 30 sec rec <br> - 3x6 reps 1-Leg squat w/ medial rotation w/ 30 sec rec | N/A |
 
 # Phase 2 S&C SPP Timetable:
 
