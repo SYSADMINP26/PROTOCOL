@@ -1,4 +1,4 @@
-# Phase 1 1st Block GPP Timetable:
+# Phase 1 S&C GPP Timetable:
 
 | Day # | Block #  | Category                  | Globalization | Localization | Mobilization | Activation | Realization                                                                                                                                       | Cessation |
 |-------|----------|----------------------------|---------------|--------------|--------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -8,8 +8,8 @@
 | DAY #4 | 1 | Anaerobic Stamina | - 1x25 reps 4 ct Side straddle hop <br> | - 1x20 reps Walking lunge <br> - 1x20 reps Contralateral toe reach <br> | - 1x20 reps Bend w/ reach <br> - 1x20 Trunk overhead reach | <br> - 3x25m Acceleration sprint w/ 30 sec rec <br> - 3x10m Shuttle run w/ 30 sec rec | - 6x30 sec run @ 90% HRmax/30 sec walk w/ 90 sec rec <br> - 3x25 reps Battle rope slams w/ 30 sec rec <br> - 3x25 reps Sledgehammer strikes w/ 30 sec rec @ RPE 6, 4 RIR | - 1x60 reps Calf raise <br> - 1x20 reps Seated hip rotation <br> - 1x2 min walk |
 | DAY #5 | 1 | Strength Endurance | - 1x25 reps 4 ct Side straddle hop <br> | - 1x20 reps Walking lunge <br> - 1x20 reps Contralateral toe reach <br> | - 1x20 reps Bend w/ reach <br> - 1x20 Trunk overhead reach | <br> - 3x25m Sandbag shoulder carry w/ 30 sec rec @ RPE 5, 5 RIR <br> - 3x10 reps Stair overhead carry w/ 30 sec rec @ RPE 5, 5 RIR | - 1x4.025 km LBE march @ 75% HRmax <br> - 3x25m Farmer's walk w/ 60 sec rec @ RPE 7, 3 RIR <br> - 3x25m Sandbag carry w/ 60 sec rec @ RPE 7, 3 RIR | - 1x60 reps Calf raise <br> - 1x20 reps Seated hip rotation <br> - 1x2 min walk |
 
-# Phase 2 1st Block SPP Timetable:
+# Phase 2 S&C SPP Timetable:
 
 
-# Phase 3 1st Block TTP Timetable:
+# Phase 3 S&C TTP Timetable:
 
