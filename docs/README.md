@@ -1,4 +1,5 @@
 # SYNTAX OVERVIEW:
+* "complex" = Inverse
 * "tech" = Technology, Technical
 * "individ" = Individual
 * "max" = Maximum
