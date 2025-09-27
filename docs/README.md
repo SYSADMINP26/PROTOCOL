@@ -18,7 +18,7 @@
 
 # SYNTAX OVERVIEW:
 * "complex" = Inverse
-* "tech" = Technology, Technical
+* "tech" = Technology
 * "individ" = Individual
 * "max" = Maximum
 * "min" = Minimum
