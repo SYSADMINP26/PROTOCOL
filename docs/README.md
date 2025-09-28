@@ -1,5 +1,5 @@
-### Start @ [Schedule](./schedule.md)
-### [S&C overview @](./S&C_overview.md)
+### Schedule @ (./schedule.md)
+### S&C overview @ (./S&C_overview.md)
 
 # Syntax overview:
 * "tech" = Technology
