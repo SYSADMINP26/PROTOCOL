@@ -48,13 +48,6 @@
 | Realization              | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR           | Main task mvmt                          |
 | Cessation               | Calf Stretch, Seated Hip Rotation                   | Temp reg & homeostasis post mvmt             |
 
-> NOTE: 
-> PRGRM METHODOLOGY:
-> * Qual dev, maintenance, & improvement
-> * Interference avoidance
-> * Complementary sim util e.g. Complex Absolute Strength-Relative Power Session
-> * Intensity, volume, recovery, etc guidelines w/ RPE/RIR util 
-> * Equip integ e.g. CBRN/HAZMAT equip integ w/ Aerobic Endurance 
 # STRENGTH & CONDITIONING MATERIEL:
 * 1x Suspension sys
 * 1x Sledgehammer
