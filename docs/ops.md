@@ -1,8 +1,8 @@
 # Ops proc:
 
-Obj: LQ est
+## Obj: LQ est
 
-# 7M sequential living quarters & env mod doctrine:
+### 7M sequential living quarters & env mod doctrine:
 
 | Step: | Task |
 | ------------- | ------------- |
