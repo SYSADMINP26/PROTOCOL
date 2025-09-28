@@ -1,3 +1,5 @@
+### Start @ [Schedule](./schedule.md)
+
 # Syntax overview:
 * "tech" = Technology
 * "individ" = Individual
@@ -14,7 +16,6 @@
 * "req" = Requirement, required
 * "mod" = Modification
 * "N/A" = Not applicable
-* "PMCS" = Preventative Maintenance Checks & Services
 * "mem" = Memory
 * "w/" = With
 * "w/in" = Within
@@ -86,7 +87,7 @@
 * "quals" = Qualities
 * "AMRAP" = As many reps as possible
 * "EMOM" = Every min on min
-* "complex session" = Absolute Strength & Relative Power mvmt pairing
+* "complex session" = Absolute Strength & Relative pwr mvmt pairing
 * "GH" = General Hazards
 * "LQ" = Living Quarters
 * "PHYSEC" = Physical sec
