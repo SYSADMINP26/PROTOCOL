@@ -87,3 +87,4 @@
 * "AMRAP" = As many reps as possible
 * "EMOM" = Every min on min
 * "complex session" = Absolute Strength & Relative Power mvmt pairing
+* "GH" = General Hazards
