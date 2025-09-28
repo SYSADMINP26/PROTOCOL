@@ -1,4 +1,4 @@
-### Schedule @ (./schedule.md)
+### Proceed to Schedule @ (./schedule.md)
 ### S&C overview @ (./S&C_overview.md)
 
 # Syntax overview:
