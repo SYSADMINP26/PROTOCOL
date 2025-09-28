@@ -11,15 +11,15 @@
 | Task cat                             | Task ex                                             | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------------------------------------|
 | Gen Strength                         | Weighted pull ups, Sandbag overhead press           | Block 2 | Overcoming musculoskeletal resistance |
-| Absolute Strength       | 1-5RM compound mvmt, Hoisting                | Block 2 | Max muscular force vs load         |
-| Relative Strength      | Suspension sys, TAPS calisthenics            | Block 2 | Musc force relative to BW          |
+|Abs Strength       | 1-5RM compound mvmt, Hoisting                | Block 2 | Max muscular force vs load         |
+|Rel Strength      | Suspension sys, TAPS calisthenics            | Block 2 | Musc force relative to BW          |
 
-# Power Matrix:
+# Pwr Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Gen Power | Jumping pull ups, Cleans | Block 2 | Generate max force as rapidly as possible |
-| Absolute Power             | Sled mvmt, Slams, Shouldering, Hoisting             | Block 2    | Max explosive force vs load              |
-| Relative Power                 | Plyometrics, Bounds, Jumps, Hops                    | Block 2    | Explosive force relative to BW           |
+| Gen pwr | Jumping pull ups, Cleans | Block 2 | Generate max force as rapidly as possible |
+|Abs pwr             | Sled mvmt, Slams, Shouldering, Hoisting             | Block 2    | Max explosive force vs load              |
+|Rel pwr                 | Plyometrics, Bounds, Jumps, Hops                    | Block 2    | Explosive force relative to BW           |
 
 # Endurance Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
@@ -28,13 +28,13 @@
 | Strength Endurance                   | Loaded carries, LBE marching                   | Block 1    | Sustained force output vs external load   |
 | Muscular Endurance             | Rope climbing, Metronome push-ups                   | Block 1    | Repeated muscular contractions @ low intensity   |
 | Aerobic Endurance               | 75% HR max runs, Swimming                       | Block 1    | Long-duration low-intensity effort  |
-| Power Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | Block 2    | Repeated expl vs fatigue            |
+| Pwr Endurance        | Chest push w/ obj throw, Burpee w/ vert jump        | Block 2    | Repeated expl vs fatigue            |
 | Anaerobic Stamina               | Obstacle courses, Interval runs                     | Block 1    | Short-duration high-intensity effort|
 
 # Mvmt Matrix:
 | Task cat                             | Task ex                                             | Block  | Def                                 |
 |--------------------------------------|-----------------------------------------------------|-------|-------------------------------------|
-| Absolute Speed             | Sprinting, Hill sprinting, Stair sprinting          | Block 2    | Max mvmt velocity                   |
+|Abs Speed             | Sprinting, Hill sprinting, Stair sprinting          | Block 2    | Max mvmt velocity                   |
 | Reactive Agility              | Change of Direction drills, Shuffling               | Block 2    | Direction change & env reaction    |
 | Neuromuscular Stabilization    | Unilateral isometric holds, Crawling                | Block 1    | Coordinated static stability        |
 
