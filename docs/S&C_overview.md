@@ -12,6 +12,22 @@
 * "mvmt" = Movement
 * "ROM" = Range of Motion
 * "BW" = Bodyweight
+* "RPE" = Rate of Perceived Exertion
+* "RIR" = Reps in Reserve
+* "HR" = Heart Rate
+* "int" = Intensity
+* "rec" = Recovery
+* "LBE" = Load Bearing Equipment
+* "recon" = Reconnaissance
+* "TAPS" = Tactical Assault Panel System
+* "CQC" = Close Quarters Combat
+* "equip" = Equipment
+* "MEDEVAC" = Medical Evacuation
+* "IMT" = Individ Mvmt Techniques
+* "quals" = Qualities
+* "AMRAP" = As many reps as possible
+* "EMOM" = Every min on min
+* "complex session" = Abs Strength & Rel pwr mvmt pairing
   
 ## Phase Matrix:
 | Task cat | Task ex                          | Def                                                    |
