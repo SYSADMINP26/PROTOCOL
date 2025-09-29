@@ -1,5 +1,3 @@
-# SF 2 proc:
-
 |          ITEM           | H20 (L)  | PRO (g)   | CHO (g)  | FAT (g) |
 |-------------------------|----------|-----------|----------|---------|
 | 192g cooked white rice  | 0L H20   | 0g PRO    | 55g CHO  | 0g FAT  |
