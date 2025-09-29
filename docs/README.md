@@ -2,7 +2,6 @@
 ### S&C overview @ (./S&C_overview.md)
 
 # Syntax overview:
-* "pwr" = Power
 * "tech" = Technology
 * "individ" = Individual
 * "max" = Maximum
