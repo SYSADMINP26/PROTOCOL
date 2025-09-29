@@ -6,7 +6,7 @@
 
 | Step: | Task |
 | ------------- | ------------- |
-| Monitoring  | Obs env sec, temp, GH threat proximity, support inputs, inventory resources, etc & depart if suboptimal |
+| Monitoring  | Recon env PHYSEC, temp, & GH proximity. If suboptimal, depart. |
 | Mapping | Doc phys layout  |
 | Modifying | Env decon & psych/phys compromising items removal e.g. bright colors, unnecessary text materiel | 
 | Marking | Boundary demarcation & area-based op focus/task |
