@@ -35,14 +35,6 @@
 * "~" = Approximately
 * "min" = Minute
 * "sec" = Second
-* "wk" = Week
-* "mo" = Month
-* "yr" = Year
-* "reps" = Repetitions
-* "RM" = Rep Max
-* "mvmt" = Movement
-* "ROM" = Range of Motion
-* "BW" = Bodyweight
 * "sim" = simulation
 * "perf" = Performance
 * "dev" = Development
