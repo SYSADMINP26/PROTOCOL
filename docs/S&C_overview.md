@@ -7,6 +7,11 @@
 * "HRPU" = Hand Release Push-Up
 * "HSPU" = Hand Stand Push-Up
 * "PMPU" = Plyometric Push-Up
+* "reps" = Repetitions
+* "RM" = Rep Max
+* "mvmt" = Movement
+* "ROM" = Range of Motion
+* "BW" = Bodyweight
   
 ## Phase Matrix:
 | Task cat | Task ex                          | Def                                                    |
