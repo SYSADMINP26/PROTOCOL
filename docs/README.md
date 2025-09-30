@@ -3,6 +3,13 @@
 
 # Syntax overview:
 * "tech" = Technology
+* "electro" = Electronic
+* "mech" = Mechanical
+* "Hydro" = Hydrological
+* "Chem" = Chemical
+* "Decon" = Decontamination
+* "Con" = Contamination
+* "rm" = Remove
 * "individ" = Individual
 * "max" = Maximum
 * "min" = Minimum
