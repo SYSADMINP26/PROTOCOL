@@ -1,3 +1,5 @@
+### Acquire inventory @ (./inventory.md)
+### Build LQ @ (./LQ.md)
 ### Proceed to Schedule @ (./schedule.md)
 ### S&C overview @ (./S&C_overview.md)
 
