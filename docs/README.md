@@ -1,7 +1,7 @@
-### Acquire inventory @ (./inventory.md)
-### Build LQ @ (./LQ.md)
-### Proceed to Schedule @ (./schedule.md)
-### S&C overview @ (./S&C_overview.md)
+# Preliminaries:
+### 1. Acquire inventory listed @ (./inventory.md)
+### 2. LQ & env build listed @ (./LQ.md)
+### 3. Proceed to Schedule @ (./schedule.md)
 
 # Syntax overview:
 * "tech" = Technology
