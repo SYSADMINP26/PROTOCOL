@@ -1,16 +1,19 @@
-# Preliminaries:
-### 1. Acquire inventory listed @ (./inventory.md)
-### 2. LQ & env build listed @ (./LQ.md)
-### 3. Proceed to Schedule @ (./schedule.md)
+# End state:
+* Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, & bureaucratic life.  
 
-# Syntax overview:
+# Preliminaries:
+### - [ ] Acquire inventory listed @ (./inventory.md)
+### - [ ] LQ & env build listed @ (./lq.md)
+### - [ ] Proceed to Schedule @ (./schedule.md)
+
+# Syntax overview (not case-sensitive):
 * "tech" = Technology
 * "electro" = Electronic
 * "mech" = Mechanical
-* "Hydro" = Hydrological
-* "Chem" = Chemical
-* "Decon" = Decontamination
-* "Con" = Contamination
+* "hydro" = Hydrological
+* "chem" = Chemical
+* "decon" = Decontamination
+* "con" = Contamination
 * "rm" = Remove
 * "individ" = Individual
 * "max" = Maximum
