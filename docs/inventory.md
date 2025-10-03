@@ -1,9 +1,40 @@
-| Cover & Concealment |                  Tech & Comms                    |   Med & Decon        |   Nutrition & Hydration        |      
-|---------------------|--------------------------------------------------|----------------------|--------------------------------|
-| Sandbags            | RPi 4B 4GB RAM w/ display & keyboard peripherals | Geiger Counter       | Multivitamin pills             |
-| OD Tarp             | USB w/ OpenBSD & preloaded protocol sys          | CBRNE/HAZMAT PPE     | Water purification tabs        |
-| TAPs/LBE            | Offline wristwatch                               | IFAK                 | Canned chicken breast          |
-| Synthetic netting   | Offline physiological data tracker               | UVGI box             | H2O w/in sealed plastic        |
-| Armor Plate         | Red light headlamp                               | Incinerator box      | Omega-3 pills                  |
-| Plate carrier       | Handheld 2-way radios                            | Plastic bags         | White rice w/in sealed plastic |    
-| Chest Rig           | Rechargeable batteries                           | Quat wipes           | Mixed nuts w/in sealed plastic |
+# Cover & Concealment                       
+- [] Sandbags                           
+- [] OD Tarp            
+- [] TAPs/LBE                     
+- [] Synthetic netting           
+- [] Armor Plate                          
+- [] Plate carrier         
+- [] Chest Rig           
+
+# Tech & Comms:                     
+- [] RPi 4B 4GB RAM 
+- [] display & keyboard peripherals
+- [] USB w/ OpenBSD & preloaded protocol sys
+- [] Offline wristwatch
+- [] Offline physiological data tracker
+- [] Red light headlamp
+- [] Handheld 2-way radios
+- [] Rechargeable batteries
+- [] Incinerator box
+- [] Plastic bags
+- [] Quat wipes
+
+# Med & Decon:
+- [] Geiger Counter 
+- [] CBRNE/HAZMAT PPE
+- [] UVGI box
+- [] Water purification tabs
+## - [] IFAK
+
+# Nutrition, supps, & hydration: 
+- [] Mixed nuts w/in sealed plastic
+- [] White rice w/in sealed plastic 
+- [] Canned chicken breast
+- [] Omega-3 pills
+- [] H2O w/in sealed plastic
+- [] Multivitamin pills
+
+## Util:
+- [] 4.5kg Sledgehammer
+- [] ~7.82m Climbing Rope

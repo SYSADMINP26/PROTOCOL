@@ -1,35 +1,4 @@
-# OCCUPATIONAL S&C PRGRM OVERVIEW:
-
-## Syntax:
-* "pwr" = Power
-* "PU" = Push-Up
-* "MNPU" = Metronome Push-Up
-* "HRPU" = Hand Release Push-Up
-* "HSPU" = Hand Stand Push-Up
-* "PMPU" = Plyometric Push-Up
-* "reps" = Repetitions
-* "RM" = Rep Max
-* "mvmt" = Movement
-* "ROM" = Range of Motion
-* "BW" = Bodyweight
-* "RPE" = Rate of Perceived Exertion
-* "RIR" = Reps in Reserve
-* "HR" = Heart Rate
-* "int" = Intensity
-* "rec" = Recovery
-* "LBE" = Load Bearing Equipment
-* "recon" = Reconnaissance
-* "TAPS" = Tactical Assault Panel System
-* "CQC" = Close Quarters Combat
-* "equip" = Equipment
-* "MEDEVAC" = Medical Evacuation
-* "IMT" = Individ Mvmt Techniques
-* "quals" = Qualities
-* "AMRAP" = As many reps as possible
-* "EMOM" = Every min on min
-* "complex session" = Abs Strength & Rel pwr mvmt pairing
-  
-## Phase Matrix:
+  ## Phase Matrix:
 | Task cat | Task ex                          | Def                                                    |
 |----------|----------------------------------|--------------------------------------------------------|
 | GPP      | Task cat w/ gen dist             | Gen phys development pre-SPP                           |                 
@@ -41,14 +10,14 @@
 |---------------|-------------------------------------------|---------|---------------------------------------|
 | Gen Strength  | Weighted pull ups, Sandbag overhead press | Block 2 | Overcoming musculoskeletal resistance |
 | Abs Strength  | 1-5RM compound mvmt, Hoisting             | Block 2 | Max muscular force vs load            |
-| Rel Strength  | Suspension sys, TAPS calisthenics         | Block 2 | Musc force relative to BW             |
+| Rel Strength  | Suspension sys, TAPS calisthenics         | Block 2 | Musc force relative to bw             |
 
 ## Pwr Matrix:
 | Task cat | Task ex                  | Block   | Def                                       |
 |----------|--------------------------|---------|-------------------------------------------|
 | Gen pwr  | Jumping pull ups, Cleans | Block 2 | Generate max force as rapidly as possible |
 | Abs pwr  | Sled mvmt, Slams         | Block 2 | Max explosive force vs load               |
-| Rel pwr  | Bounds, Jumps, Hops      | Block 2 | Explosive force relative to BW            |
+| Rel pwr  | Bounds, Jumps, Hops      | Block 2 | Explosive force relative to bw            |
 
 ## Endurance Matrix:
 | Task cat           | Task ex                       | Block   | Def                                              |
@@ -75,10 +44,3 @@
 | Activation    | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run  | Main task action mimicry pre mvmt prep |
 | Realization   | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR     | Main task mvmt                         |
 | Cessation     | Calf Stretch, Seated Hip Rotation             | Temp reg & homeostasis post mvmt       |
-
-## STRENGTH & CONDITIONING MATERIEL:
-* 1x Suspension sys
-* 1x Sledgehammer
-* 1x Sandbag
-* ~7.82m Climbing Rope
-* 1x integ equip e.g. LBE/TAPS, CBRN/HAZMAT, SCBA, etc

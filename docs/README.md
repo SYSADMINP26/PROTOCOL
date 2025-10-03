@@ -1,10 +1,19 @@
 # End state:
-* Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, & bureaucratic life.  
+* Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, & bureaucratic life w/ both Auftragstaktik independence & Befehlstaktik & chain-of-command logic capabilities & usage.  
 
 # Preliminaries:
-### - [ ] Acquire inventory listed @ (./inventory.md)
-### - [ ] LQ & env build listed @ (./lq.md)
-### - [ ] Proceed to Schedule @ (./schedule.md)
+- [ ] Acquire inventory listed @ (./inventory.md)
+- [ ] LQ & env build listed @ (./lq.md)
+- [ ] Proceed to Schedule @ (./schedule.md)
+
+# Results:
+- [ ] Fitzpatrick Type III tone
+- [ ] Odorless
+- [ ] Depilated exc ocular & nasal
+- [ ] SPF 50+ neutral full sleeve clothing
+- [ ] Scalp covering
+- [ ] Terse speech output
+- [ ] Physiological modulation
 
 # Syntax overview (not case-sensitive):
 * "tech" = Technology
@@ -76,3 +85,31 @@
 * "GH" = General Hazards
 * "LQ" = Living Quarters
 * "PHYSEC" = Physical sec
+* "pwr" = Power
+* "PU" = Push-Up
+* "MNPU" = Metronome Push-Up
+* "HRPU" = Hand Release Push-Up
+* "HSPU" = Hand Stand Push-Up
+* "PMPU" = Plyometric Push-Up
+* "DSPU" = Dead Stop Push-Up
+* "reps" = Repetitions
+* "RM" = Rep Max
+* "mvmt" = Movement
+* "ROM" = Range of Motion
+* "BW" = Bodyweight
+* "RPE" = Rate of Perceived Exertion
+* "RIR" = Reps in Reserve
+* "HR" = Heart Rate
+* "int" = Intensity
+* "rec" = Recovery
+* "LBE" = Load Bearing Equipment
+* "recon" = Reconnaissance
+* "TAPS" = Tactical Assault Panel System
+* "CQC" = Close Quarters Combat
+* "equip" = Equipment
+* "MEDEVAC" = Medical Evacuation
+* "IMT" = Individ Mvmt Techniques
+* "quals" = Qualities
+* "AMRAP" = As many reps as possible
+* "EMOM" = Every min on min
+* "complex session" = Abs Strength & Rel pwr mvmt pairing
