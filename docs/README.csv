@@ -1,38 +1,35 @@
-Section,Item
-Result,"Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, utilitarian, bureaucratic life w/ Auftragstaktik & Befehlstaktik logic"
-Result,"Fitzpatrick Type III skin tone"
-Result,"Odorless"
-Result,"Depilated except ocular & nasal"
-Result,"Scalp covering"
-Result,"Terse speech output"
-Result,"Physiological modulation"
-Preliminaries,LQ doctrine
-Preliminaries,"Monitoring phase: Select LQ, recon env PHYSEC, temp, rad lvl, GH proximity; if suboptimal, depart"
-Preliminaries,"Mapping phase: Doc layout, plan AO sector w/ purpose"
-Preliminaries,"Modifying phase: Decon env & remove psych/phys compromising items"
-Preliminaries,"Marking phase: Demarcate boundary & sector"
-Preliminaries,"Making phase: Arrange & order equip/materiel by sector"
-Preliminaries,"Militarizing phase: Increase PHYSEC, cover, concealment via sandbags, tunneling, munitions"
-Preliminaries,"Minimizing phase: Reduce forensic trace, resource usage, & signature"
-Preliminaries,"Maintaining phase: Threat prevention, monitor env state, assess risks"
-Preliminaries,"Mitigating phase: Reset post anomalies, neutralize threats"
-Inventory,"Cover & Concealment: Sandbags"
-Inventory,"Cover & Concealment: OD Tarp"
-Inventory,"Cover & Concealment: TAPs/LBE"
-Inventory,"Cover & Concealment: Synthetic netting"
-Inventory,"Cover & Concealment: Armor Plate"
-Inventory,"Cover & Concealment: Plate carrier"
-Inventory,"Cover & Concealment: Chest Rig"
-Inventory,"Tech & Comms: RPi 4B 4GB RAM w/ OpenBSD"
-Inventory,"Tech & Comms: Display & keyboard peripherals"
-Inventory,"Tech & Comms: USB w/ preloaded protocol sys"
-Inventory,"Tech & Comms: Offline physiological data tracker"
-Inventory,"Tech & Comms: Red light headlamp"
-Inventory,"Tech & Comms: Handheld 2-way radios"
-Inventory,"Tech & Comms: Rechargeable batteries"
-Inventory,"Med & Decon: Geiger Counter"
-Inventory,"Med & Decon: CBRNE/HAZMAT PPE"
-Inventory,"Med & Decon: UVGI box"
+Section,Item, Status (1/0)
+Req,"Fitzpatrick Type III skin tone",0
+Req,"Odorless",1
+Req,"Depilated except ocular & nasal",1
+Req,"Scalp covering",1
+Req,"Terse speech output",1
+Req,"Physiological modulation",0
+LQ-doctrine,"Monitoring phase: Select LQ, recon env PHYSEC, temp, rad lvl, GH proximity; if suboptimal, depart",1
+LQ-doctrine,"Modifying phase: Decon env & remove psych/phys compromising items",1
+LQ-doctrine,"Marking phase: Demarcate boundary & sector",1
+LQ-doctrine,"Making phase: Arrange & order equip/materiel by sector",1
+LQ-doctrine,"Militarizing phase: Increase PHYSEC, cover, concealment via sandbags, tunneling, munitions",1
+LQ-doctrine,"Minimizing phase: Reduce forensic trace, resource usage, & signature",1
+LQ-doctrine,"Maintaining phase: Threat prevention, monitor env state, assess risks",1
+LQ-doctrine,"Mitigating phase: Reset post anomalies, neutralize threats",1
+Inventory,"Cover & Concealment: Sandbags",1
+Inventory,"Cover & Concealment: OD Tarp",1
+Inventory,"Cover & Concealment: TAPs/LBE",0
+Inventory,"Cover & Concealment: Synthetic netting",0
+Inventory,"Cover & Concealment: Armor Plate",0
+Inventory,"Cover & Concealment: Plate carrier",0
+Inventory,"Cover & Concealment: Chest Rig",0
+Inventory,"Tech & Comms: RPi 4B 4GB RAM w/ OpenBSD",0
+Inventory,"Tech & Comms: Display & keyboard peripherals",0
+Inventory,"Tech & Comms: USB w/ preloaded protocol sys",0
+Inventory,"Tech & Comms: Offline physiological data tracker",1
+Inventory,"Tech & Comms: Red light headlamp",0
+Inventory,"Tech & Comms: Handheld 2-way radios",1
+Inventory,"Tech & Comms: Rechargeable batteries",1
+Inventory,"Med & Decon: Geiger Counter",0
+Inventory,"Med & Decon: CBRNE/HAZMAT PPE",0
+Inventory,"Med & Decon: UVGI box",0
 Inventory,"Med & Decon: Water purification tabs"
 Inventory,"Med & Decon: Incinerator box"
 Inventory,"Med & Decon: Quat wipes"
