@@ -1,5 +1,5 @@
 # End state:
-- Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, & bureaucratic life w/ both Auftragstaktik independence & Befehlstaktik & chain-of-command logic capabilities & usage.  
+- Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.  
 
 # Preliminaries:
 - [] Acquire inventory listed @ (./inventory.md)
