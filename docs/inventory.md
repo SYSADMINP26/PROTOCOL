@@ -1,4 +1,4 @@
-# Cover & Concealment                       
+# Cover & Concealment:                        
 - [] Sandbags                           
 - [] OD Tarp            
 - [] TAPs/LBE                     
@@ -25,7 +25,7 @@
 - [] CBRNE/HAZMAT PPE
 - [] UVGI box
 - [] Water purification tabs
-## - [] IFAK
+- [] IFAK
 
 # Nutrition, supps, & hydration: 
 - [] Mixed nuts w/in sealed plastic
@@ -38,3 +38,9 @@
 ## Util:
 - [] 4.5kg Sledgehammer
 - [] ~7.82m Climbing Rope
+
+## Clothing inventory:
+- [] High-temp clothing
+- [] Low-temp clothing
+- [] Undergarments
+- [] Cranial covers
