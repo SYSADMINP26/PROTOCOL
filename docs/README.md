@@ -1,74 +1,72 @@
-- [] Result:
-- Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, utilitarian, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.
-- [] Fitzpatrick Type III tone
-- [] Odorless
-- [] Depilated exc ocular & nasal
-- [] Scalp covering
-- [] Terse speech output
-- [] Physiological modulation
+- [x] Result:
+- [x] Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, utilitarian, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.
+- [x] Fitzpatrick Type III tone
+- [x] Odorless
+- [x] Depilated exc ocular & nasal
+- [x] Scalp covering
+- [x] Terse speech output
+- [x] Physiological modulation
 
-- [] Preliminaries:
-- [] 8M sequential living quarters & env mod doctrine:
-- [] Monitoring phase: Select LQ. Recon env PHYSEC, temp, rad lvl, & GH proximity. If suboptimal, depart.
-- [] Mapping phase: Doc topographical layout. Plan AO sector & purpose.
-- [] Modifying phase: Env decon & psych/phys compromising items rm e.g. bright colors, unnecessary text materiel.
-- [] Marking phase: Boundary & sector demarcation for sector-based op focus/task.
-- [] Making phase: Arrange items by sector. Properly order req equip & materiel est by previous Mapping phase.
-- [] Militarizing phase: Increase PHYSEC, cover, & concealment w/ sandbags, structural support, tunneling, &  munitions.
-- [] Minimizing phase: Reduce forensic trace & resource usage. Destroy traces, decrease sig, & prevent attribution.
-- [] Maintaining phase: Threat preventative cons LQ state. Monitor env state, assess threats, & reduce risks.
-- [] Mitigating phase: Reactive LQ state reset post anomalies/threats. Neutralize previous threats, reduce anomalies.
+- [x] Preliminaries:
+- [x] LQ:
+- [x] 8M sequential lq & env mod doctrine:
+- [x] Monitoring phase: Select LQ. Recon env PHYSEC, temp, rad lvl, & GH proximity. If suboptimal, depart.
+- [x] Mapping phase: Doc topographical layout. Plan AO sector & purpose.
+- [x] Modifying phase: Env decon & psych/phys compromising items rm e.g. bright colors, unnecessary text materiel.
+- [x] Marking phase: Boundary & sector demarcation for sector-based op focus/task.
+- [x] Making phase: Arrange items by sector. Properly order req equip & materiel est by previous Mapping phase.
+- [x] Militarizing phase: Increase PHYSEC, cover, & concealment w/ sandbags, structural support, tunneling, &  munitions.
+- [x] Minimizing phase: Reduce forensic trace & resource usage. Destroy traces, decrease sig, & prevent attribution.
+- [x] Maintaining phase: Threat preventative cons LQ state. Monitor env state, assess threats, & reduce risks.
+- [x] Mitigating phase: Reactive LQ state reset post anomalies/threats. Neutralize previous threats, reduce anomalies.
 
-- [] Inventory:
-- [] Cover & Concealment:                        
-- [] Sandbags                           
-- [] OD Tarp            
-- [] TAPs/LBE                     
-- [] Synthetic netting           
-- [] Armor Plate                          
-- [] Plate carrier         
-- [] Chest Rig           
+- [x] Inventory:
+- [x] Cover & Concealment:                        
+- [x] Sandbags                           
+- [x] OD Tarp            
+- [x] TAPs/LBE                     
+- [x] Synthetic netting           
+- [x] Armor Plate                          
+- [x] Plate carrier         
+- [x] Chest Rig           
 
-- [] Tech & Comms:                     
-- [] RPi 4B 4GB RAM 
-- [] display & keyboard peripherals
-- [] USB w/ OpenBSD & preloaded protocol sys
-- [] Offline wristwatch
-- [] Offline physiological data tracker
-- [] Red light headlamp
-- [] Handheld 2-way radios
-- [] Rechargeable batteries
-- [] Incinerator box
-- [] Plastic bags
-- [] Quat wipes
+- [x] Tech & Comms:                     
+- [x] RPi 4B 4GB RAM w/ OpenBSD
+- [x] Display & keyboard peripherals
+- [x] USB w/ preloaded protocol sys
+- [x] Offline physiological data tracker
+- [x] Red light headlamp
+- [x] Handheld 2-way radios
+- [x] Rechargeable batteries
 
-- [] Med & Decon:
-- [] Geiger Counter 
-- [] CBRNE/HAZMAT PPE
-- [] UVGI box
-- [] Water purification tabs
-- [] IFAK
+- [x] Med & Decon:
+- [x] Geiger Counter 
+- [x] CBRNE/HAZMAT PPE
+- [x] UVGI box
+- [x] Water purification tabs
+- [x] Incinerator box
+- [x] Quat wipes
+- [x] IFAK
 
-- [] Nutrition, supps, & hydration: 
-- [] Mixed nuts w/in sealed plastic
-- [] White rice w/in sealed plastic 
-- [] Canned chicken breast
-- [] Omega-3 pills
-- [] H2O w/in sealed plastic
-- [] Multivitamin pills
+- [x] Nutrition, supps, & hydration: 
+- [x] Mixed nuts w/in sealed plastic
+- [x] White rice w/in sealed plastic 
+- [x] Canned chicken breast
+- [x] Omega-3 pills
+- [x] H2O w/in sealed plastic
+- [x] Multivitamin pills
 
-- [] Util:
-- [] 4.5kg Sledgehammer
-- [] ~7.82m Climbing Rope
+- [x] Util:
+- [x] 4.5kg Sledgehammer
+- [x] ~7.82m Climbing Rope
 
-- [] Clothing inventory:
-- [] SPF 50+ neutral color full sleeve clothing
-- [] High-temp clothing
-- [] Low-temp clothing
-- [] Undergarments
-- [] Cranial covers
-- [] LQ & env build listed @ (./lq.md)
-- [] Proceed to Schedule @ (./schedule.md)
+- [x] Clothing inventory:
+- [x] SPF 50+ neutral color full sleeve clothing
+- [x] High-temp clothing
+- [x] Low-temp clothing
+- [x] Undergarments
+- [x] Cranial covers
+- [x] Proceed to Schedule @ (./schedule.md)
 
 ### Phase Matrix:
 | Task cat | Task ex                          | Def                                                    |
@@ -116,103 +114,3 @@
 | Activation    | 3x10 Push Ups w/ 30s rest, 4x10m Shuttle Run  | Main task action mimicry pre mvmt prep |
 | Realization   | 2x5 Sandbag Overhead Press @ RPE 8, 2 RIR     | Main task mvmt                         |
 | Cessation     | Calf Stretch, Seated Hip Rotation             | Temp reg & homeostasis post mvmt       |
-
-
-### Syntax overview (not case-sensitive):
-- "tech" = Technology
-- "electro" = Electronic
-- "mech" = Mechanical
-- "hydro" = Hydrological
-- "chem" = Chemical
-- "decon" = Decontamination
-- "con" = Contamination
-- "rm" = Remove
-- "individ" = Individual
-- "max" = Maximum
-- "min" = Minimum
-- "env" = Environment
-- "prgrm" = Program
-- "regs" = Regulations                                      
-- "S&C" = Strength & Conditioning
-- "PT" = Physical Training
-- "SERE" = Survival, Evasion, Resistance, Escape
-- "OPSEC" = Operational Security
-- "info" = Information
-- "req" = Requirement, required
-- "mod" = Modification
-- "N/A" = Not applicable
-- "mem" = Memory
-- "w/" = With
-- "w/in" = Within
-- "w/out" = Without
-- "b/c" = Because
-- "@" = At
-- "b/w" = Between
-- "vs" = Versus
-- "etc" = Et cetera
-- "ex" = Example
-- "thru" = Through
-- "i.e." = That is
-- "+" = Positive
-- "-" = Negative
-- "/" = Per
-- "~" = Approximately
-- "min" = Minute
-- "sec" = Second
-- "sim" = simulation
-- "perf" = Performance
-- "integ" = Integration
-- "adapt" = Adaptation
-- "dist" = Distribution
-- "temp" = Temperature
-- "obj" = Object
-- "vol" = Volume
-- "sys" = System
-- "SCBA" = Self-Contained Breathing Apparatus
-- "CBRN" = Chemical, Biological, Radiological, Nuclear
-- "HAZMAT" = Hazardous Material
-- "struct" = Structure
-- "PSYOP" = Psychological Operation
-- "N/A" = Not Applicable
-- "expl" = Explain
-- "&" = And
-- "util" = Utility
-- "ans" = Answer
-- "vert" = Vertical
-- "obj" = Objective
-- "AAR" = After Action Report
-- "TTPs" = Tactics, Techniques, Procedures
-- "prep" = Preparation
-- "dev" = Development
-- "ct" = Count
-- "GH" = General Hazards
-- "LQ" = Living Quarters
-- "PHYSEC" = Physical sec
-- "pwr" = Power
-- "PU" = Push-Up
-- "MNPU" = Metronome Push-Up
-- "HRPU" = Hand Release Push-Up
-- "HSPU" = Hand Stand Push-Up
-- "PMPU" = Plyometric Push-Up
-- "DSPU" = Dead Stop Push-Up
-- "reps" = Repetitions
-- "RM" = Rep Max
-- "mvmt" = Movement
-- "ROM" = Range of Motion
-- "BW" = Bodyweight
-- "RPE" = Rate of Perceived Exertion
-- "RIR" = Reps in Reserve
-- "HR" = Heart Rate
-- "int" = Intensity
-- "rec" = Recovery
-- "LBE" = Load Bearing Equipment
-- "recon" = Reconnaissance
-- "TAPS" = Tactical Assault Panel System
-- "CQC" = Close Quarters Combat
-- "equip" = Equipment
-- "MEDEVAC" = Medical Evacuation
-- "IMT" = Individ Mvmt Techniques
-- "quals" = Qualities
-- "AMRAP" = As many reps as possible
-- "EMOM" = Every min on min
-- "complex session" = Abs Strength & Rel pwr mvmt pairing
