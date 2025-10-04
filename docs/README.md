@@ -7,13 +7,12 @@
 - [] Proceed to Schedule @ (./schedule.md)
 
 # Results:
-- [ ] Fitzpatrick Type III tone
-- [ ] Odorless
-- [ ] Depilated exc ocular & nasal
-- [ ] SPF 50+ neutral full sleeve clothing
-- [ ] Scalp covering
-- [ ] Terse speech output
-- [ ] Physiological modulation
+- [] Fitzpatrick Type III tone
+- [] Odorless
+- [] Depilated exc ocular & nasal
+- [] Scalp covering
+- [] Terse speech output
+- [] Physiological modulation
 
   ## Phase Matrix:
 | Task cat | Task ex                          | Def                                                    |

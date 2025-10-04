@@ -40,6 +40,7 @@
 - [] ~7.82m Climbing Rope
 
 ## Clothing inventory:
+- [] SPF 50+ neutral color full sleeve clothing
 - [] High-temp clothing
 - [] Low-temp clothing
 - [] Undergarments
