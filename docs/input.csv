@@ -1,0 +1,18 @@
+Task,Step,Action
+instance #,protein (g),carbs (g),fat (g),item ex
+#1,0,30,0,1 banana
+#1,N/A,N/A,N/A,1/2L H2O
+#2,0,44,0,2 slices bread
+#2,0,6,0,7g honey
+#2,25,0,0,6 solid egg whites
+#2,N/A,N/A,N/A,1L H2O
+#3,0,55,0,192g cooked white rice
+#3,45.5,0,0,84g chicken breast
+#3,0,0,15,32g cashews
+#3,N/A,N/A,N/A,1L H2O
+#4,0,30,0,1 banana
+#4,N/A,N/A,N/A,1L H2O
+#5,0,55,0,192g cooked white rice
+#5,45.5,0,0,84g chicken breast
+#5,0,0,15,32g cashews
+#5,N/A,N/A,N/A,1L H2O

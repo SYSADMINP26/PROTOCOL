@@ -1,7 +1,7 @@
-Task
-Wipe receptacle w/ BZK
-Defecate into receptacle
-Wipe genitals w/ paper
-Dispose of paper
-Wash hands w/ BZK 2x 30 sec
-Brush teeth w/ toothbrush & fluoride toothpaste 2 min
+Task,Phase,Action
+Disinfection,Technical decon,Wipe receptacle w/ BZK
+Disinfection,Technical decon,Defecate into receptacle
+Disinfection,Technical decon,Wipe genitals w/ paper
+Disinfection,Containment,Dispose of paper
+Disinfection,Technical decon,Wash hands w/ BZK 2x 30 sec
+Disinfection,Technical decon,Brush teeth w/ toothbrush & fluoride toothpaste 2 min
