@@ -1,6 +1,6 @@
 - [x] Result:
 - [x] Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, utilitarian, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.
-- [x] Fitzpatrick Type III tone
+- [x] Fitzpatrick Type III skin tone
 - [x] Odorless
 - [x] Depilated exc ocular & nasal
 - [x] Scalp covering
@@ -11,7 +11,7 @@
 - [x] LQ:
 - [x] 8M sequential lq & env mod doctrine:
 - [x] Monitoring phase: Select LQ. Recon env PHYSEC, temp, rad lvl, & GH proximity. If suboptimal, depart.
-- [x] Mapping phase: Doc topographical layout. Plan AO sector & purpose.
+- [x] Mapping phase: Doc topographical layout. Plan AO sector w/ purpose.
 - [x] Modifying phase: Env decon & psych/phys compromising items rm e.g. bright colors, unnecessary text materiel.
 - [x] Marking phase: Boundary & sector demarcation for sector-based op focus/task.
 - [x] Making phase: Arrange items by sector. Properly order req equip & materiel est by previous Mapping phase.
