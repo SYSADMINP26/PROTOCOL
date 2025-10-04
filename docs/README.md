@@ -1,5 +1,5 @@
 ## Result:
-- Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.
+- Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, utilitarian, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.
 
 ## Preliminaries:
 ## Inventory:
