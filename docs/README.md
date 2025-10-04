@@ -9,7 +9,7 @@
 
 - [] Preliminaries:
 - [] 8M sequential living quarters & env mod doctrine:
-- [] Monitoring phase: Recon env PHYSEC, temp, rad lvl, & GH proximity. If suboptimal, depart.
+- [] Monitoring phase: Select LQ. Recon env PHYSEC, temp, rad lvl, & GH proximity. If suboptimal, depart.
 - [] Mapping phase: Doc topographical layout. Plan AO sector & purpose.
 - [] Modifying phase: Env decon & psych/phys compromising items rm e.g. bright colors, unnecessary text materiel.
 - [] Marking phase: Boundary & sector demarcation for sector-based op focus/task.
