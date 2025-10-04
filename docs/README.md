@@ -1,12 +1,59 @@
-# End state:
-- Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.  
+## Result:
+- Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.
 
-# Preliminaries:
-- [] Acquire inventory listed @ (./inventory.md)
+## Preliminaries:
+## Inventory:
+### Cover & Concealment:                        
+- [] Sandbags                           
+- [] OD Tarp            
+- [] TAPs/LBE                     
+- [] Synthetic netting           
+- [] Armor Plate                          
+- [] Plate carrier         
+- [] Chest Rig           
+
+### Tech & Comms:                     
+- [] RPi 4B 4GB RAM 
+- [] display & keyboard peripherals
+- [] USB w/ OpenBSD & preloaded protocol sys
+- [] Offline wristwatch
+- [] Offline physiological data tracker
+- [] Red light headlamp
+- [] Handheld 2-way radios
+- [] Rechargeable batteries
+- [] Incinerator box
+- [] Plastic bags
+- [] Quat wipes
+
+### Med & Decon:
+- [] Geiger Counter 
+- [] CBRNE/HAZMAT PPE
+- [] UVGI box
+- [] Water purification tabs
+- [] IFAK
+
+### Nutrition, supps, & hydration: 
+- [] Mixed nuts w/in sealed plastic
+- [] White rice w/in sealed plastic 
+- [] Canned chicken breast
+- [] Omega-3 pills
+- [] H2O w/in sealed plastic
+- [] Multivitamin pills
+
+### Util:
+- [] 4.5kg Sledgehammer
+- [] ~7.82m Climbing Rope
+
+### Clothing inventory:
+- [] SPF 50+ neutral color full sleeve clothing
+- [] High-temp clothing
+- [] Low-temp clothing
+- [] Undergarments
+- [] Cranial covers
 - [] LQ & env build listed @ (./lq.md)
 - [] Proceed to Schedule @ (./schedule.md)
 
-# Results:
+### Results:
 - [] Fitzpatrick Type III tone
 - [] Odorless
 - [] Depilated exc ocular & nasal
@@ -14,28 +61,28 @@
 - [] Terse speech output
 - [] Physiological modulation
 
-  ## Phase Matrix:
+### Phase Matrix:
 | Task cat | Task ex                          | Def                                                    |
 |----------|----------------------------------|--------------------------------------------------------|
 | GPP      | Task cat w/ gen dist             | Gen phys development pre-SPP                           |                 
 | SPP      | Task cat w/ occupation-spec dist | Spec skill-based perf post-GPP                         |
 | TTP      | Violence of Action dev           | Spec sim-based perf w/ high equip integ & CQC post-SPP |
 
-## Strength Matrix:
+### Strength Matrix:
 | Task cat      | Task ex                                   | Block   | Def                                   |
 |---------------|-------------------------------------------|---------|---------------------------------------|
 | Gen Strength  | Weighted pull ups, Sandbag overhead press | Block 2 | Overcoming musculoskeletal resistance |
 | Abs Strength  | 1-5RM compound mvmt, Hoisting             | Block 2 | Max muscular force vs load            |
 | Rel Strength  | Suspension sys, TAPS calisthenics         | Block 2 | Musc force relative to bw             |
 
-## Pwr Matrix:
+### Pwr Matrix:
 | Task cat | Task ex                  | Block   | Def                                       |
 |----------|--------------------------|---------|-------------------------------------------|
 | Gen pwr  | Jumping pull ups, Cleans | Block 2 | Generate max force as rapidly as possible |
 | Abs pwr  | Sled mvmt, Slams         | Block 2 | Max explosive force vs load               |
 | Rel pwr  | Bounds, Jumps, Hops      | Block 2 | Explosive force relative to bw            |
 
-## Endurance Matrix:
+### Endurance Matrix:
 | Task cat           | Task ex                       | Block   | Def                                              |
 |--------------------|-------------------------------|---------|--------------------------------------------------|
 | Strength Endurance | Loaded carries, LBE marching  | Block 1 | Sustained force output vs external load          |
@@ -44,14 +91,14 @@
 | Pwr Endurance      | Burpee w/ vert jump           | Block 2 | Repeated pwr vs fatigue                          |
 | Anaerobic Stamina  | Obstacle courses              | Block 1 | Short-duration high-intensity effort             |
 
-## Mvmt Matrix:
+### Mvmt Matrix:
 | Task cat         | Task ex                                     | Block   | Def                             |
 |------------------|---------------------------------------------|---------|---------------------------------|
 | Abs Speed        | Sprinting, Hill sprinting, Stair sprinting  | Block 2 | Max mvmt velocity               |
 | Reactive Agility | Change of Direction drills, Shuffling       | Block 2 | Direction change & env reaction |
 | NMS              | Unilateral isometric holds, Crawling        | Block 1 | Coordinated static stability    |
 
-## Prep Matrix:
+### Prep Matrix:
 | Task cat      | Task ex                                       | Def                                    |
 |---------------|-----------------------------------------------|----------------------------------------|
 | Globalization | Jump Rope, 4 ct Side straddle hops            | Raise core temp pre mvmt prep          |
@@ -62,49 +109,49 @@
 | Cessation     | Calf Stretch, Seated Hip Rotation             | Temp reg & homeostasis post mvmt       |
 
 
-# Syntax overview (not case-sensitive):
-* "tech" = Technology
-* "electro" = Electronic
-* "mech" = Mechanical
-* "hydro" = Hydrological
-* "chem" = Chemical
-* "decon" = Decontamination
-* "con" = Contamination
-* "rm" = Remove
-* "individ" = Individual
-* "max" = Maximum
-* "min" = Minimum
-* "env" = Environment
-* "prgrm" = Program
-* "regs" = Regulations                                      
-* "S&C" = Strength & Conditioning
-* "PT" = Physical Training
-* "SERE" = Survival, Evasion, Resistance, Escape
-* "OPSEC" = Operational Security
-* "info" = Information
-* "req" = Requirement, required
-* "mod" = Modification
-* "N/A" = Not applicable
-* "mem" = Memory
-* "w/" = With
-* "w/in" = Within
-* "w/out" = Without
-* "b/c" = Because
-* "@" = At
-* "b/w" = Between
-* "vs" = Versus
-* "etc" = Et cetera
-* "ex" = Example
-* "thru" = Through
-* "i.e." = That is
-* "+" = Positive
-* "-" = Negative
-* "/" = Per
-* "~" = Approximately
-* "min" = Minute
-* "sec" = Second
-* "sim" = simulation
-* "perf" = Performance
+### Syntax overview (not case-sensitive):
+- "tech" = Technology
+- "electro" = Electronic
+- "mech" = Mechanical
+- "hydro" = Hydrological
+- "chem" = Chemical
+- "decon" = Decontamination
+- "con" = Contamination
+- "rm" = Remove
+- "individ" = Individual
+- "max" = Maximum
+- "min" = Minimum
+- "env" = Environment
+- "prgrm" = Program
+- "regs" = Regulations                                      
+- "S&C" = Strength & Conditioning
+- "PT" = Physical Training
+- "SERE" = Survival, Evasion, Resistance, Escape
+- "OPSEC" = Operational Security
+- "info" = Information
+- "req" = Requirement, required
+- "mod" = Modification
+- "N/A" = Not applicable
+- "mem" = Memory
+- "w/" = With
+- "w/in" = Within
+- "w/out" = Without
+- "b/c" = Because
+- "@" = At
+- "b/w" = Between
+- "vs" = Versus
+- "etc" = Et cetera
+- "ex" = Example
+- "thru" = Through
+- "i.e." = That is
+- "+" = Positive
+- "-" = Negative
+- "/" = Per
+- "~" = Approximately
+- "min" = Minute
+- "sec" = Second
+- "sim" = simulation
+- "perf" = Performance
 * "integ" = Integration
 * "adapt" = Adaptation
 * "dist" = Distribution
