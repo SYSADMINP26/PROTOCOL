@@ -1,0 +1,15 @@
+Time,Proc
+0430-0435,intake-#1.csv
+0435-0535,s&c.csv
+0535-0550,decon.csv
+0550-0600,intake-#2.csv
+0600-1030,ops.csv
+1030-1040,intake-#3.csv
+1040-1600,ops.csv
+1600-1605,intake-#4.csv
+1605-1805,ops.csv
+1805-1845,s&c.csv
+1845-1900,decon.csv
+1900-1910,intake-#5.csv
+1910-2030,ops.csv
+2030-0430,N/A
