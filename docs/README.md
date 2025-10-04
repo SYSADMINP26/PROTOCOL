@@ -1,9 +1,26 @@
-## Result:
+- [] Result:
 - Location-agnostic, low-resource, high-tech, no-trace, biophobic, sterile, technocratic, militarized, brutalist, utilitarian, & bureaucratic life w/ both Auftragstaktik autonomy & Befehlstaktik & chain-of-command logic capabilities.
+- [] Fitzpatrick Type III tone
+- [] Odorless
+- [] Depilated exc ocular & nasal
+- [] Scalp covering
+- [] Terse speech output
+- [] Physiological modulation
 
-## Preliminaries:
-## Inventory:
-### Cover & Concealment:                        
+- [] Preliminaries:
+- [] 8M sequential living quarters & env mod doctrine:
+- [] Monitoring phase: Recon env PHYSEC, temp, rad lvl, & GH proximity. If suboptimal, depart.
+- [] Mapping phase: Doc topographical layout. Plan AO sector & purpose.
+- [] Modifying phase: Env decon & psych/phys compromising items rm e.g. bright colors, unnecessary text materiel.
+- [] Marking phase: Boundary & sector demarcation for sector-based op focus/task.
+- [] Making phase: Arrange items by sector. Properly order req equip & materiel est by previous Mapping phase.
+- [] Militarizing phase: Increase PHYSEC, cover, & concealment w/ sandbags, structural support, tunneling, &  munitions.
+- [] Minimizing phase: Reduce forensic trace & resource usage. Destroy traces, decrease sig, & prevent attribution.
+- [] Maintaining phase: Threat preventative cons LQ state. Monitor env state, assess threats, & reduce risks.
+- [] Mitigating phase: Reactive LQ state reset post anomalies/threats. Neutralize previous threats, reduce anomalies.
+
+- [] Inventory:
+- [] Cover & Concealment:                        
 - [] Sandbags                           
 - [] OD Tarp            
 - [] TAPs/LBE                     
@@ -12,7 +29,7 @@
 - [] Plate carrier         
 - [] Chest Rig           
 
-### Tech & Comms:                     
+- [] Tech & Comms:                     
 - [] RPi 4B 4GB RAM 
 - [] display & keyboard peripherals
 - [] USB w/ OpenBSD & preloaded protocol sys
@@ -25,14 +42,14 @@
 - [] Plastic bags
 - [] Quat wipes
 
-### Med & Decon:
+- [] Med & Decon:
 - [] Geiger Counter 
 - [] CBRNE/HAZMAT PPE
 - [] UVGI box
 - [] Water purification tabs
 - [] IFAK
 
-### Nutrition, supps, & hydration: 
+- [] Nutrition, supps, & hydration: 
 - [] Mixed nuts w/in sealed plastic
 - [] White rice w/in sealed plastic 
 - [] Canned chicken breast
@@ -40,11 +57,11 @@
 - [] H2O w/in sealed plastic
 - [] Multivitamin pills
 
-### Util:
+- [] Util:
 - [] 4.5kg Sledgehammer
 - [] ~7.82m Climbing Rope
 
-### Clothing inventory:
+- [] Clothing inventory:
 - [] SPF 50+ neutral color full sleeve clothing
 - [] High-temp clothing
 - [] Low-temp clothing
@@ -52,14 +69,6 @@
 - [] Cranial covers
 - [] LQ & env build listed @ (./lq.md)
 - [] Proceed to Schedule @ (./schedule.md)
-
-### Results:
-- [] Fitzpatrick Type III tone
-- [] Odorless
-- [] Depilated exc ocular & nasal
-- [] Scalp covering
-- [] Terse speech output
-- [] Physiological modulation
 
 ### Phase Matrix:
 | Task cat | Task ex                          | Def                                                    |
@@ -152,58 +161,58 @@
 - "sec" = Second
 - "sim" = simulation
 - "perf" = Performance
-* "integ" = Integration
-* "adapt" = Adaptation
-* "dist" = Distribution
-* "temp" = Temperature
-* "obj" = Object
-* "vol" = Volume
-* "sys" = System
-* "SCBA" = Self-Contained Breathing Apparatus
-* "CBRN" = Chemical, Biological, Radiological, Nuclear
-* "HAZMAT" = Hazardous Material
-* "struct" = Structure
-* "PSYOP" = Psychological Operation
-* "N/A" = Not Applicable
-* "expl" = Explain
-* "&" = And
-* "util" = Utility
-* "ans" = Answer
-* "vert" = Vertical
-* "obj" = Objective
-* "AAR" = After Action Report
-* "TTPs" = Tactics, Techniques, Procedures
-* "prep" = Preparation
-* "dev" = Development
-* "ct" = Count
-* "GH" = General Hazards
-* "LQ" = Living Quarters
-* "PHYSEC" = Physical sec
-* "pwr" = Power
-* "PU" = Push-Up
-* "MNPU" = Metronome Push-Up
-* "HRPU" = Hand Release Push-Up
-* "HSPU" = Hand Stand Push-Up
-* "PMPU" = Plyometric Push-Up
-* "DSPU" = Dead Stop Push-Up
-* "reps" = Repetitions
-* "RM" = Rep Max
-* "mvmt" = Movement
-* "ROM" = Range of Motion
-* "BW" = Bodyweight
-* "RPE" = Rate of Perceived Exertion
-* "RIR" = Reps in Reserve
-* "HR" = Heart Rate
-* "int" = Intensity
-* "rec" = Recovery
-* "LBE" = Load Bearing Equipment
-* "recon" = Reconnaissance
-* "TAPS" = Tactical Assault Panel System
-* "CQC" = Close Quarters Combat
-* "equip" = Equipment
-* "MEDEVAC" = Medical Evacuation
-* "IMT" = Individ Mvmt Techniques
-* "quals" = Qualities
-* "AMRAP" = As many reps as possible
-* "EMOM" = Every min on min
-* "complex session" = Abs Strength & Rel pwr mvmt pairing
+- "integ" = Integration
+- "adapt" = Adaptation
+- "dist" = Distribution
+- "temp" = Temperature
+- "obj" = Object
+- "vol" = Volume
+- "sys" = System
+- "SCBA" = Self-Contained Breathing Apparatus
+- "CBRN" = Chemical, Biological, Radiological, Nuclear
+- "HAZMAT" = Hazardous Material
+- "struct" = Structure
+- "PSYOP" = Psychological Operation
+- "N/A" = Not Applicable
+- "expl" = Explain
+- "&" = And
+- "util" = Utility
+- "ans" = Answer
+- "vert" = Vertical
+- "obj" = Objective
+- "AAR" = After Action Report
+- "TTPs" = Tactics, Techniques, Procedures
+- "prep" = Preparation
+- "dev" = Development
+- "ct" = Count
+- "GH" = General Hazards
+- "LQ" = Living Quarters
+- "PHYSEC" = Physical sec
+- "pwr" = Power
+- "PU" = Push-Up
+- "MNPU" = Metronome Push-Up
+- "HRPU" = Hand Release Push-Up
+- "HSPU" = Hand Stand Push-Up
+- "PMPU" = Plyometric Push-Up
+- "DSPU" = Dead Stop Push-Up
+- "reps" = Repetitions
+- "RM" = Rep Max
+- "mvmt" = Movement
+- "ROM" = Range of Motion
+- "BW" = Bodyweight
+- "RPE" = Rate of Perceived Exertion
+- "RIR" = Reps in Reserve
+- "HR" = Heart Rate
+- "int" = Intensity
+- "rec" = Recovery
+- "LBE" = Load Bearing Equipment
+- "recon" = Reconnaissance
+- "TAPS" = Tactical Assault Panel System
+- "CQC" = Close Quarters Combat
+- "equip" = Equipment
+- "MEDEVAC" = Medical Evacuation
+- "IMT" = Individ Mvmt Techniques
+- "quals" = Qualities
+- "AMRAP" = As many reps as possible
+- "EMOM" = Every min on min
+- "complex session" = Abs Strength & Rel pwr mvmt pairing
